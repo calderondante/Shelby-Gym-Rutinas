@@ -8,6 +8,6 @@
 - Separar contenido y presentación al incorporar el catálogo. Orden, series, repeticiones, descansos y variantes deben venir de las fuentes del gimnasio.
 - Una demostración por ejercicio; pausa, movimiento reducido y reproducción solo en pantalla. No suavizar movimientos inventando cuadros anatómicos.
 - Verificar 375, 390, 768, 1024 y 1440 px, teclado, foco, zoom y ausencia de overflow. Distinguir emulación de dispositivos físicos.
-- Publicar solo public/ en un sitio Netlify nuevo. Nunca copiar secretos, datos de clientes ni configuración privada.
+- Publicar solo public/. El usuario autorizó una vista previa navegable en GitHub Pages del repositorio independiente, con al menos la rutina de adaptación completa. Mantener Netlify como opción de entrega separada. Nunca tocar el sitio administrativo ni copiar secretos, datos de clientes o configuración privada.
 - No hacer commits nuevos, push ni deploy automáticamente. Entregar los cambios revisables y las verificaciones ejecutadas.
 

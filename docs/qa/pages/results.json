@@ -1,0 +1,52 @@
+[
+  {
+    "width": 375,
+    "exercises": 7,
+    "demos": 7,
+    "steps": 7,
+    "completed": 7,
+    "overflow": false,
+    "errors": [],
+    "resourceErrors": []
+  },
+  {
+    "width": 390,
+    "exercises": 7,
+    "demos": 7,
+    "steps": 7,
+    "completed": 7,
+    "overflow": false,
+    "errors": [],
+    "resourceErrors": []
+  },
+  {
+    "width": 768,
+    "exercises": 7,
+    "demos": 7,
+    "steps": 7,
+    "completed": 7,
+    "overflow": false,
+    "errors": [],
+    "resourceErrors": []
+  },
+  {
+    "width": 1024,
+    "exercises": 7,
+    "demos": 7,
+    "steps": 7,
+    "completed": 7,
+    "overflow": false,
+    "errors": [],
+    "resourceErrors": []
+  },
+  {
+    "width": 1440,
+    "exercises": 7,
+    "demos": 7,
+    "steps": 7,
+    "completed": 7,
+    "overflow": false,
+    "errors": [],
+    "resourceErrors": []
+  }
+]

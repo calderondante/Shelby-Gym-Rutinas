@@ -86,3 +86,20 @@ Se corrigió además la navegación a anclas para que cambiar de fragmento dentr
 día no vuelva a renderizar la rutina ni devuelva el foco al título. Se comprobaron las
 anclas y Atrás del navegador por separado. No se publicó una URL de Netlify ni se
 modificó la administración para entregar esta presentación.
+
+## Rutina de adaptación para GitHub Pages
+
+El usuario autorizó una vista previa navegable en GitHub Pages del repositorio
+independiente, con al menos una rutina terminada. Se destacó la rutina de adaptación
+con sus siete ejercicios y siete demostraciones; no se alteró la prescripción del PDF.
+Los descansos no escritos siguen señalados como una consulta al entrenador.
+
+Se sirvió el sitio bajo el prefijo `/Shelby-Gym-Rutinas/`, equivalente al de Pages.
+A 375, 390, 768, 1024 y 1440 px se comprobó el acceso principal, los siete ejercicios,
+carga de las siete demostraciones, avance por posición y marcado 7/7, sin errores JS,
+recursos fallidos ni overflow. Resultados en `docs/qa/pages/`.
+
+`scripts/publish-pages.py` prepara únicamente `public/` y `.nojekyll` en `gh-pages`,
+sin worktree ni cambios en el administrador. La disponibilidad remota requiere comprobar
+la activación de Pages y su despliegue; la política actual del entorno bloquea la API
+GitHub y el dominio github.io hasta aplicar los dominios guardados en el borrador.

@@ -17,8 +17,8 @@ Todavía no hay un despliegue web de Netlify confirmado.
 [Captura móvil de un ejercicio](docs/qa/current/ejercicio-390.png) ·
 [Vista en los cinco tamaños](docs/qa/current/responsive-catalogo.jpg)
 
-El repositorio muestra el código y las capturas. La página navegable se publica por
-separado en Netlify usando la carpeta `public/`.
+El repositorio muestra el código y las capturas. La vista previa navegable se prepara en GitHub Pages desde `gh-pages`; Netlify sigue
+disponible como despliegue independiente usando `public/`.
 
 ## Ejecutar y comprobar
 
@@ -126,3 +126,23 @@ lo que no se afirma una prueba directa de esa apertura aquí. No requiere un ser
 ni peticiones de datos externos para funcionar. El ZIP no contiene la administración,
 secretos, datos de socios ni archivos Git. No hay un enlace público creado automáticamente:
 Netlify requiere iniciar sesión en la cuenta que será dueña de ese sitio.
+
+
+## Vista previa en GitHub Pages
+
+El usuario autorizó publicar esta vista previa en el repositorio independiente.
+La rutina de adaptación contiene sus siete ejercicios con demostraciones y es el
+acceso principal. La prescripción se conserva tal como está en el PDF; los descansos
+no indicados se consultan al entrenador.
+
+`scripts/publish-pages.py` crea o actualiza `gh-pages` con los archivos de `public/`
+y `.nojekyll`, sin worktrees ni copia de la administración. No hace push con fuerza.
+La rama preparada no demuestra por sí sola que GitHub Pages esté activado.
+
+Si todavía no está habilitado: Settings → Pages → Source: **Deploy from a branch** →
+Branch: **gh-pages**, carpeta **/ (root)** → Save. Esto se configura exclusivamente
+en `calderondante/Shelby-Gym-Rutinas`, sin modificar `Shelby-Gym`.
+
+La URL esperada tras activarlo es
+`https://calderondante.github.io/Shelby-Gym-Rutinas/`; verificar el estado de despliegue
+y la respuesta HTTP antes de presentarla como un enlace disponible.

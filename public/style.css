@@ -10,3 +10,5 @@
 .dose-strip span{font-size:12px}.rest small{font-size:11px}.phase{font-size:12px}.exercise-heading .eyebrow{font-size:10px}.category{font-size:11px}
 .text-button,.player-controls button,.search-label,.done-control,select{border-color:#817781}.filters button[aria-pressed=true]{border-color:#817781}
 .dose-help{display:block;font-size:11px;color:var(--muted);line-height:1.6;margin-top:6px}
+
+.showcase-note{margin-top:13px;font-size:13px}.showcase-catalog{display:inline-flex;align-items:center;min-height:44px;font-size:13px;color:var(--muted);text-decoration:underline;text-underline-offset:4px;margin-top:3px}
