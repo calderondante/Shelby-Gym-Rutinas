@@ -1,0 +1,1844 @@
+{
+  "movements": {
+    "0142": {
+      "title": "Extensión de cuádriceps en camilla",
+      "steps": [
+        "Sentate con la espalda apoyada y el rodillo sobre la parte baja de las piernas.",
+        "Extendé las rodillas para elevar el rodillo y volvé a la posición inicial."
+      ],
+      "cue": "Mantené la cadera apoyada y evitá lanzar el peso.",
+      "frames": [
+        "media/everkinetic/0142-0.svg",
+        "media/everkinetic/0142-1.svg"
+      ],
+      "sourceName": "Leg Extensions",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0117": {
+      "title": "Flexión de femorales en camilla",
+      "steps": [
+        "Acostate boca abajo en la camilla y ubicá los tobillos bajo el rodillo.",
+        "Flexioná las rodillas acercando los talones a los glúteos; bajá con control."
+      ],
+      "cue": "Mantené la pelvis en contacto con el apoyo.",
+      "frames": [
+        "media/everkinetic/0117-0.svg",
+        "media/everkinetic/0117-1.svg"
+      ],
+      "sourceName": "Lying Leg Curl Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0018": {
+      "title": "Vuelos laterales con mancuernas",
+      "steps": [
+        "Parate con una mancuerna a cada lado y los codos levemente flexionados.",
+        "Elevá los brazos hacia los costados hasta la altura de los hombros y bajá despacio."
+      ],
+      "cue": "No uses impulso del tronco ni levantes los hombros hacia las orejas.",
+      "frames": [
+        "media/everkinetic/0018-0.svg",
+        "media/everkinetic/0018-1.svg"
+      ],
+      "sourceName": "Lateral Dumbbell Raises",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0223": {
+      "title": "Curl alternado con mancuernas",
+      "steps": [
+        "Parate con una mancuerna en cada mano y los codos cerca del cuerpo.",
+        "Flexioná un codo para subir la mancuerna; bajá y alterná el brazo."
+      ],
+      "cue": "Mantené el tronco estable durante el movimiento.",
+      "frames": [
+        "media/everkinetic/0223-0.svg",
+        "media/everkinetic/0223-1.svg"
+      ],
+      "sourceName": "Alternating Bicep Curl with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0206": {
+      "title": "Tríceps con soga en polea",
+      "steps": [
+        "Tomá la soga de una polea alta con los codos junto al cuerpo.",
+        "Extendé los codos para llevar la soga hacia abajo y regresá con control."
+      ],
+      "cue": "Evitá mover los hombros para empujar la carga.",
+      "frames": [
+        "media/everkinetic/0206-0.svg",
+        "media/everkinetic/0206-1.svg"
+      ],
+      "sourceName": "Triceps Pushdown with Rope and Cable",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0124": {
+      "title": "Sentadilla en Smith",
+      "steps": [
+        "Ubicá la barra sobre la parte alta de la espalda y apoyá ambos pies con firmeza.",
+        "Flexioná cadera y rodillas para bajar; empujá el piso para volver a subir."
+      ],
+      "cue": "Pedí al entrenador que ajuste los topes y tu posición en la máquina.",
+      "frames": [
+        "media/everkinetic/0124-1.svg",
+        "media/everkinetic/0124-0.svg"
+      ],
+      "sourceName": "Smith Machine Squats",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0084": {
+      "title": "Press inclinado en máquina",
+      "steps": [
+        "Ajustá el asiento para ubicar las empuñaduras cerca de la parte alta del pecho.",
+        "Empujá las empuñaduras hacia adelante y regresá con control."
+      ],
+      "cue": "Mantené la espalda apoyada sin trabar los codos.",
+      "frames": [
+        "media/everkinetic/0084-0.png",
+        "media/everkinetic/0084-1.png"
+      ],
+      "sourceName": "Incline Chest Press",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0062": {
+      "title": "Apertura inclinada con mancuernas",
+      "steps": [
+        "Acostate en un banco inclinado con una mancuerna en cada mano sobre el pecho.",
+        "Abrí los brazos conservando una leve flexión de codos y volvé a juntarlos."
+      ],
+      "cue": "Evitá convertir la apertura en un press.",
+      "frames": [
+        "media/everkinetic/0062-0.svg",
+        "media/everkinetic/0062-1.svg"
+      ],
+      "sourceName": "Incline Dumbbell Fly's",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0012": {
+      "title": "Press de hombros con mancuernas",
+      "steps": [
+        "Sentate con el tronco estable y las mancuernas a la altura de los hombros.",
+        "Elevá las mancuernas por encima de la cabeza y bajá con control."
+      ],
+      "cue": "Evitá arquear la espalda para completar la subida.",
+      "frames": [
+        "media/everkinetic/0012-0.png",
+        "media/everkinetic/0012-1.png"
+      ],
+      "sourceName": "Dumbbell Shoulder Press",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0162": {
+      "title": "Fondos en banco para tríceps",
+      "steps": [
+        "Apoyá las manos en el borde de un banco firme y ubicá los pies delante del cuerpo.",
+        "Flexioná los codos para bajar el cuerpo y extendelos para regresar."
+      ],
+      "cue": "Mantené la cadera cerca del banco; el entrenador debe ajustar la amplitud.",
+      "frames": [
+        "media/everkinetic/0162-0.svg",
+        "media/everkinetic/0162-1.svg"
+      ],
+      "sourceName": "Bench Dips",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0279": {
+      "title": "Pantorrillas sentado en máquina",
+      "steps": [
+        "Sentate con los muslos bajo el apoyo y las puntas de los pies en la plataforma.",
+        "Elevá los talones y bajalos lentamente."
+      ],
+      "cue": "Evitá rebotar y mantené el apoyo del antepié.",
+      "frames": [
+        "media/everkinetic/0279-0.svg",
+        "media/everkinetic/0279-1.svg"
+      ],
+      "sourceName": "Seated Calf Raise using Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0007": {
+      "title": "Elevación frontal con barra",
+      "steps": [
+        "Parate sosteniendo la barra delante de los muslos.",
+        "Elevá la barra hacia adelante hasta la altura de los hombros y bajá con control."
+      ],
+      "cue": "Mantené el tronco estable y los codos levemente flexionados.",
+      "frames": [
+        "media/everkinetic/0007-1.png",
+        "media/everkinetic/0007-0.png"
+      ],
+      "sourceName": "Front Barbell Raises",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0023": {
+      "title": "Vuelos posteriores con mancuernas en banco",
+      "steps": [
+        "Acostate boca abajo sobre un banco y sostené las mancuernas debajo de los hombros.",
+        "Abrí los brazos hacia los costados y volvé a bajarlos."
+      ],
+      "cue": "No uses balanceo para elevar las mancuernas.",
+      "frames": [
+        "media/everkinetic/0023-0.svg",
+        "media/everkinetic/0023-1.svg"
+      ],
+      "sourceName": "Lying Rear Lateral Raise",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0211": {
+      "title": "Curl de bíceps con barra",
+      "steps": [
+        "Parate sosteniendo la barra con las palmas hacia arriba y los codos junto al cuerpo.",
+        "Flexioná los codos para subir la barra y bajá con control."
+      ],
+      "cue": "Evitá mover el tronco hacia atrás.",
+      "frames": [
+        "media/everkinetic/0211-0.svg",
+        "media/everkinetic/0211-1.svg"
+      ],
+      "sourceName": "Biceps Curls with Barbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0213": {
+      "title": "Curl martillo alternado",
+      "steps": [
+        "Sostené las mancuernas con las palmas enfrentadas al cuerpo.",
+        "Flexioná un codo sin girar la muñeca; bajá y alterná el brazo."
+      ],
+      "cue": "Mantené los codos cerca del tronco.",
+      "frames": [
+        "media/everkinetic/0213-0.svg",
+        "media/everkinetic/0213-1.svg"
+      ],
+      "sourceName": "Alternating Hammer Curl with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0127": {
+      "title": "Prensa de piernas a 45°",
+      "steps": [
+        "Sentate con la espalda y la cadera apoyadas; colocá los pies sobre la plataforma.",
+        "Flexioná las rodillas para acercar la plataforma y empujá para volver."
+      ],
+      "cue": "No despegues la pelvis ni trabes las rodillas. Ajustá los seguros con el entrenador.",
+      "frames": [
+        "media/everkinetic/0127-1.svg",
+        "media/everkinetic/0127-0.svg"
+      ],
+      "sourceName": "Leg Press",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0282": {
+      "title": "Elevación de pantorrillas parado",
+      "steps": [
+        "Ubicá el antepié sobre el apoyo y los hombros bajo las almohadillas de la máquina.",
+        "Elevá los talones y descendé con control."
+      ],
+      "cue": "Mantené las rodillas estables y evitá rebotar.",
+      "frames": [
+        "media/everkinetic/0282-0.svg",
+        "media/everkinetic/0282-1.svg"
+      ],
+      "sourceName": "Standing Calf Raises using Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0042": {
+      "title": "Press de pecho con barra en banco plano",
+      "steps": [
+        "Acostate en el banco con los pies firmes y tomá la barra por fuera del ancho de hombros.",
+        "Bajá la barra hacia el pecho y empujá para volver a extender los brazos."
+      ],
+      "cue": "Usá los seguros o la asistencia indicada por el entrenador.",
+      "frames": [
+        "media/everkinetic/0042-0.svg",
+        "media/everkinetic/0042-1.svg"
+      ],
+      "sourceName": "Bench Press",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0294": {
+      "title": "Oblicuos con mancuerna",
+      "steps": [
+        "Parate con una mancuerna a un lado y el abdomen activo.",
+        "Incliná el tronco hacia ese lado y regresá; luego cambiá de lado."
+      ],
+      "cue": "Evitá girar o flexionar las rodillas para mover la carga.",
+      "frames": [
+        "media/everkinetic/0294-1.svg",
+        "media/everkinetic/0294-0.svg"
+      ],
+      "sourceName": "Side Bend with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0047": {
+      "title": "Peck deck / mariposa",
+      "steps": [
+        "Sentate con la espalda apoyada y ajustá la altura de los apoyos.",
+        "Acercá los brazos delante del pecho y abrí con control."
+      ],
+      "cue": "Mantené los hombros apoyados y evitá dar impulso.",
+      "frames": [
+        "media/everkinetic/0047-0.png",
+        "media/everkinetic/0047-1.png"
+      ],
+      "sourceName": "Butterfly Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0003": {
+      "title": "Press de hombros en máquina",
+      "steps": [
+        "Ajustá el asiento para tomar las empuñaduras a la altura de los hombros.",
+        "Empujá hacia arriba y descendé lentamente."
+      ],
+      "cue": "Mantené la espalda contra el respaldo.",
+      "frames": [
+        "media/everkinetic/0003-0.png",
+        "media/everkinetic/0003-1.png"
+      ],
+      "sourceName": "Seated Shoulder Press Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0010": {
+      "title": "Elevación frontal con mancuernas",
+      "steps": [
+        "Parate con las mancuernas delante de los muslos.",
+        "Elevá los brazos hacia adelante hasta la altura de los hombros y bajá despacio."
+      ],
+      "cue": "Evitá balancear el cuerpo para subir el peso.",
+      "frames": [
+        "media/everkinetic/0010-1.png",
+        "media/everkinetic/0010-0.png"
+      ],
+      "sourceName": "Front Raises",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0205": {
+      "title": "Tríceps en polea alta con barra",
+      "steps": [
+        "Tomá la barra de la polea alta con las palmas hacia abajo y los codos junto al cuerpo.",
+        "Extendé los codos empujando hacia los muslos y volvé con control."
+      ],
+      "cue": "Mantené quietos los brazos por encima del codo.",
+      "frames": [
+        "media/everkinetic/0205-0.svg",
+        "media/everkinetic/0205-1.svg"
+      ],
+      "sourceName": "Triceps Pushdown with Cable",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0194": {
+      "title": "Copa de tríceps con mancuerna",
+      "steps": [
+        "Sentate y sostené una mancuerna con ambas manos sobre la cabeza.",
+        "Flexioná los codos para bajar la mancuerna detrás de la cabeza y volvé a extenderlos."
+      ],
+      "cue": "Mantené el tronco estable y evitá abrir demasiado los codos.",
+      "frames": [
+        "media/everkinetic/0194-1.svg",
+        "media/everkinetic/0194-0.svg"
+      ],
+      "sourceName": "Seated Triceps Press with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0025": {
+      "title": "Remo en polea baja",
+      "steps": [
+        "Sentate frente a la polea con los pies apoyados y la espalda estable.",
+        "Llevá la empuñadura hacia el abdomen y extendé los brazos con control."
+      ],
+      "cue": "No uses el balanceo del tronco para tirar.",
+      "frames": [
+        "media/everkinetic/0025-0.svg",
+        "media/everkinetic/0025-1.svg"
+      ],
+      "sourceName": "Seated Cable Rows",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0014": {
+      "title": "Remo al mentón con barra",
+      "steps": [
+        "Parate con la barra delante de los muslos y el abdomen activo.",
+        "Subí la barra cerca del cuerpo guiando con los codos y bajá despacio."
+      ],
+      "cue": "La amplitud debe ser cómoda y revisada por el entrenador.",
+      "frames": [
+        "media/everkinetic/0014-0.svg",
+        "media/everkinetic/0014-1.svg"
+      ],
+      "sourceName": "Upright Barbell Rows",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0005": {
+      "title": "Encogimiento de hombros",
+      "steps": [
+        "Sostené una mancuerna a cada lado del cuerpo.",
+        "Elevá los hombros hacia las orejas y volvé a bajarlos."
+      ],
+      "cue": "No dibujes círculos con los hombros.",
+      "frames": [
+        "media/everkinetic/0005-0.svg",
+        "media/everkinetic/0005-1.svg"
+      ],
+      "sourceName": "Shoulder Shrugs",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0123": {
+      "title": "Sentadilla hack en máquina",
+      "steps": [
+        "Apoyá la espalda y los hombros en la máquina y ubicá los pies en la plataforma.",
+        "Flexioná las rodillas para bajar y empujá para subir."
+      ],
+      "cue": "Mantené la espalda y la pelvis en contacto con los apoyos.",
+      "frames": [
+        "media/everkinetic/0123-1.svg",
+        "media/everkinetic/0123-0.svg"
+      ],
+      "sourceName": "Hack Squat Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0157": {
+      "title": "Aductores sentado en máquina",
+      "steps": [
+        "Sentate en la máquina con las piernas abiertas y los apoyos por dentro de las rodillas.",
+        "Cerrá las piernas contra la resistencia y volvé con control."
+      ],
+      "cue": "Mantené el tronco apoyado sin dar impulso.",
+      "frames": [
+        "media/everkinetic/0157-0.svg",
+        "media/everkinetic/0157-1.svg"
+      ],
+      "sourceName": "Thigh Adductor",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0093": {
+      "title": "Dorsalera con agarre invertido",
+      "steps": [
+        "Sentate y tomá la barra con las palmas mirando hacia vos.",
+        "Llevá la barra hacia la parte alta del pecho y regresá lentamente."
+      ],
+      "cue": "Mantené los codos cerca del cuerpo y evitá balancearte.",
+      "frames": [
+        "media/everkinetic/0093-0.svg",
+        "media/everkinetic/0093-1.svg"
+      ],
+      "sourceName": "Underhand Pull downs",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0105": {
+      "title": "Espinales en colchoneta",
+      "steps": [
+        "Acostate boca abajo con los brazos extendidos hacia adelante.",
+        "Elevá de forma controlada los brazos y las piernas y regresá."
+      ],
+      "cue": "Evitá sacudir el cuerpo o forzar la zona lumbar.",
+      "frames": [
+        "media/everkinetic/0105-0.svg",
+        "media/everkinetic/0105-1.svg"
+      ],
+      "sourceName": "Supermans",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0156": {
+      "title": "Abductores sentado en máquina",
+      "steps": [
+        "Sentate con las rodillas contra los apoyos exteriores y la espalda apoyada.",
+        "Separá las piernas contra la resistencia y regresá con control."
+      ],
+      "cue": "Evitá mover el tronco para abrir las piernas.",
+      "frames": [
+        "media/everkinetic/0156-0.svg",
+        "media/everkinetic/0156-1.svg"
+      ],
+      "sourceName": "Thigh Abductor",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0043": {
+      "title": "Press inclinado con barra",
+      "steps": [
+        "Acostate en un banco inclinado y tomá la barra con ambas manos.",
+        "Bajá hacia la parte alta del pecho y empujá de nuevo."
+      ],
+      "cue": "Usá los seguros o la asistencia indicada por el entrenador.",
+      "frames": [
+        "media/everkinetic/0043-0.svg",
+        "media/everkinetic/0043-1.svg"
+      ],
+      "sourceName": "Incline Bench Press",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0055": {
+      "title": "Press plano con mancuernas",
+      "steps": [
+        "Acostate en un banco plano con las mancuernas a los lados del pecho.",
+        "Empujá ambas mancuernas hacia arriba y descendé con control."
+      ],
+      "cue": "Mantené los pies firmes y la espalda estable.",
+      "frames": [
+        "media/everkinetic/0055-0.svg",
+        "media/everkinetic/0055-1.svg"
+      ],
+      "sourceName": "Bench Press Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0056": {
+      "title": "Apertura plana con mancuernas",
+      "steps": [
+        "Acostate en un banco plano sosteniendo las mancuernas sobre el pecho.",
+        "Abrí los brazos con los codos levemente flexionados y volvé a juntarlos."
+      ],
+      "cue": "Controlá el descenso sin forzar los hombros.",
+      "frames": [
+        "media/everkinetic/0056-0.svg",
+        "media/everkinetic/0056-1.svg"
+      ],
+      "sourceName": "Dumbbell Flys",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0096": {
+      "title": "Tirón al pecho con triángulo",
+      "steps": [
+        "Sentate en la dorsalera y sujetá el agarre triangular con ambas manos.",
+        "Llevá la empuñadura hacia el pecho y extendé los brazos despacio."
+      ],
+      "cue": "Evitá balancear el tronco para bajar el peso.",
+      "frames": [
+        "media/everkinetic/0096-0.svg",
+        "media/everkinetic/0096-1.svg"
+      ],
+      "sourceName": "V Bar Pull Down",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0237": {
+      "title": "Scott con mancuerna a un brazo",
+      "steps": [
+        "Apoyá el brazo sobre el banco Scott y sujetá una mancuerna.",
+        "Flexioná el codo para elevarla y descendé con control."
+      ],
+      "cue": "Mantené el brazo apoyado durante todo el recorrido.",
+      "frames": [
+        "media/everkinetic/0237-0.svg",
+        "media/everkinetic/0237-1.svg"
+      ],
+      "sourceName": "One Arm Preacher Curl with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0099": {
+      "title": "Peso muerto con barra",
+      "steps": [
+        "Parate frente a la barra con los pies firmes y tomala con ambas manos.",
+        "Extendé cadera y rodillas para levantarte; regresá flexionando la cadera con control."
+      ],
+      "cue": "Mantené la barra cerca del cuerpo y la espalda estable.",
+      "frames": [
+        "media/everkinetic/0099-0.svg",
+        "media/everkinetic/0099-1.svg"
+      ],
+      "sourceName": "Barbell Dead Lifts",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0109": {
+      "title": "Elevación de pelvis en el piso",
+      "steps": [
+        "Acostate boca arriba con las rodillas flexionadas y los pies apoyados.",
+        "Elevá la pelvis y volvé a bajarla con control."
+      ],
+      "cue": "No arquees la zona lumbar para ganar altura.",
+      "frames": [
+        "media/everkinetic/0109-0.svg",
+        "media/everkinetic/0109-1.svg"
+      ],
+      "sourceName": "Bridging",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0103": {
+      "title": "Hiperextensiones",
+      "steps": [
+        "Ajustá el banco con el apoyo por debajo de la cadera y asegurá los pies.",
+        "Incliná el tronco y volvé hasta alinearlo con las piernas."
+      ],
+      "cue": "No sigas subiendo arqueando la espalda.",
+      "frames": [
+        "media/everkinetic/0103-0.svg",
+        "media/everkinetic/0103-1.svg"
+      ],
+      "sourceName": "Hyperextensions",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0079": {
+      "title": "Pullover con mancuerna",
+      "steps": [
+        "Acostate en un banco y sujetá una mancuerna con ambas manos sobre el pecho.",
+        "Llevá los brazos hacia atrás con los codos levemente flexionados y regresá."
+      ],
+      "cue": "Mantené la pelvis estable y usá una amplitud cómoda.",
+      "frames": [
+        "media/everkinetic/0079-1.svg",
+        "media/everkinetic/0079-0.svg"
+      ],
+      "sourceName": "Straight Arm Dumbbell Pullover",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0115": {
+      "title": "Estocada con mancuernas",
+      "steps": [
+        "Parate con una mancuerna a cada lado y los pies firmes.",
+        "Dá un paso al frente, flexioná ambas rodillas y empujá para volver."
+      ],
+      "cue": "Mantené el tronco estable y la rodilla alineada con el pie.",
+      "frames": [
+        "media/everkinetic/0115-0.svg",
+        "media/everkinetic/0115-1.svg"
+      ],
+      "sourceName": "Dumbbell Lunges",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0220": {
+      "title": "Curl concentrado",
+      "steps": [
+        "Sentate con las piernas separadas y apoyá el brazo contra la cara interna del muslo.",
+        "Flexioná el codo para subir la mancuerna y bajá lentamente."
+      ],
+      "cue": "No despegues el brazo ni uses impulso del tronco.",
+      "frames": [
+        "media/everkinetic/0220-1.svg",
+        "media/everkinetic/0220-0.svg"
+      ],
+      "sourceName": "Concentration Curls with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0204": {
+      "title": "Patada de tríceps con mancuerna",
+      "steps": [
+        "Incliná el tronco con la espalda estable y el codo flexionado junto al cuerpo.",
+        "Extendé el codo llevando la mancuerna hacia atrás y regresá."
+      ],
+      "cue": "Mantené quieta la parte alta del brazo.",
+      "frames": [
+        "media/everkinetic/0204-0.svg",
+        "media/everkinetic/0204-1.svg"
+      ],
+      "sourceName": "Triceps Kickback with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0053": {
+      "title": "Apertura declinada con mancuernas",
+      "steps": [
+        "Acostate en un banco declinado con las piernas aseguradas y las mancuernas sobre el pecho.",
+        "Abrí los brazos con una leve flexión de codos y regresá."
+      ],
+      "cue": "Controlá el peso sin forzar el rango del hombro.",
+      "frames": [
+        "media/everkinetic/0053-0.svg",
+        "media/everkinetic/0053-1.svg"
+      ],
+      "sourceName": "Decline Dumbbell Fly's",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0030": {
+      "title": "Encogimiento con barra",
+      "steps": [
+        "Parate con la barra delante de los muslos y los brazos extendidos.",
+        "Elevá los hombros y descendé con control."
+      ],
+      "cue": "Evitá girar los hombros o doblar los codos para subir la barra.",
+      "frames": [
+        "media/everkinetic/0030-0.svg",
+        "media/everkinetic/0030-1.svg"
+      ],
+      "sourceName": "Barbell Shrugs",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0122": {
+      "title": "Sentadilla con barra",
+      "steps": [
+        "Apoyá la barra sobre la parte alta de la espalda y parate con los pies firmes.",
+        "Flexioná cadera y rodillas para bajar y empujá el piso para subir."
+      ],
+      "cue": "Mantené las rodillas alineadas con los pies y ajustá seguros y carga con el entrenador.",
+      "frames": [
+        "media/everkinetic/0122-1.svg",
+        "media/everkinetic/0122-0.svg"
+      ],
+      "sourceName": "Barbell Squat",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0236": {
+      "title": "Curl Scott en máquina",
+      "steps": [
+        "Ajustá el asiento y apoyá los brazos en la almohadilla.",
+        "Flexioná los codos llevando las empuñaduras hacia vos y regresá."
+      ],
+      "cue": "Mantené los brazos apoyados sin elevar los hombros.",
+      "frames": [
+        "media/everkinetic/0236-0.svg",
+        "media/everkinetic/0236-1.svg"
+      ],
+      "sourceName": "Preacher Curl with Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0273": {
+      "title": "Pantorrillas en prensa",
+      "steps": [
+        "Ubicate en la prensa con las puntas de los pies apoyadas en la plataforma.",
+        "Empujá con el antepié para elevar los talones y regresá lentamente."
+      ],
+      "cue": "Mantené estables las rodillas y evitá que resbalen los pies.",
+      "frames": [
+        "media/everkinetic/0273-0.svg",
+        "media/everkinetic/0273-1.svg"
+      ],
+      "sourceName": "Calves Press on Leg Machine",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0107": {
+      "title": "Peso muerto con mancuernas",
+      "steps": [
+        "Parate con una mancuerna a cada lado y los pies firmes.",
+        "Llevá la cadera hacia atrás para bajar las mancuernas y extendela para volver."
+      ],
+      "cue": "Mantené la espalda estable y los pesos cerca de las piernas.",
+      "frames": [
+        "media/everkinetic/0107-1.svg",
+        "media/everkinetic/0107-0.svg"
+      ],
+      "sourceName": "Dumbbell Dead Lifts",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0017": {
+      "title": "Vuelo posterior a un brazo en polea",
+      "steps": [
+        "Tomá el cable de una polea baja e incliná el tronco con la espalda estable.",
+        "Abrí el brazo hacia el costado y regresá lentamente."
+      ],
+      "cue": "Evitá levantar el tronco para tirar de la polea.",
+      "frames": [
+        "media/everkinetic/0017-0.svg",
+        "media/everkinetic/0017-1.svg"
+      ],
+      "sourceName": "Bent-over Lateral Cable Raises",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0182": {
+      "title": "Extensión cruzada de tríceps acostado",
+      "steps": [
+        "Acostate en un banco con los pies firmes y una mancuerna sobre el torso.",
+        "Flexioná el codo llevando la mancuerna cruzada hacia el hombro opuesto y regresá."
+      ],
+      "cue": "Controlá la carga en todo momento y pedí al entrenador que revise el recorrido.",
+      "frames": [
+        "media/everkinetic/0182-0.svg",
+        "media/everkinetic/0182-1.svg"
+      ],
+      "sourceName": "Lying Triceps Extension Across Face with Dumbbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0087": {
+      "title": "Dominada con agarre abierto",
+      "steps": [
+        "Tomá la barra con agarre abierto y mantené el cuerpo estable.",
+        "Flexioná los codos para elevarte y descendé con control."
+      ],
+      "cue": "Evitá impulsarte con las piernas.",
+      "frames": [
+        "media/everkinetic/0087-0.svg",
+        "media/everkinetic/0087-1.svg"
+      ],
+      "sourceName": "Pull Ups",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0090": {
+      "title": "Dominada con agarre cerrado paralelo",
+      "steps": [
+        "Tomá las empuñaduras paralelas con las palmas enfrentadas.",
+        "Elevá el cuerpo acercando el pecho al agarre y descendé con control."
+      ],
+      "cue": "Confirmá con el entrenador que este sea el agarre cerrado indicado.",
+      "frames": [
+        "media/everkinetic/0090-0.svg",
+        "media/everkinetic/0090-1.svg"
+      ],
+      "sourceName": "Narrow Parallel Grip Chin-ups",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0143": {
+      "title": "Prensa con pies juntos",
+      "steps": [
+        "Apoyá espalda y pelvis en la prensa y colocá los pies juntos en la plataforma.",
+        "Flexioná las rodillas para acercar la plataforma y empujá para volver."
+      ],
+      "cue": "Mantené los pies apoyados y las rodillas alineadas con ellos.",
+      "frames": [
+        "media/everkinetic/0143-1.svg",
+        "media/everkinetic/0143-0.svg"
+      ],
+      "sourceName": "Narrow Stance Leg Press",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0112": {
+      "title": "Patada de glúteos en polea baja",
+      "steps": [
+        "Colocá la tobillera en una polea baja y sostenete del soporte con el tronco estable.",
+        "Llevá la pierna hacia atrás desde la cadera y regresá con control."
+      ],
+      "cue": "Evitá arquear la espalda o girar la pelvis para mover la carga.",
+      "frames": [
+        "media/everkinetic/0112-0.svg",
+        "media/everkinetic/0112-1.svg"
+      ],
+      "sourceName": "One Legged Cable Kickback",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0004": {
+      "title": "Press de hombros con barra",
+      "steps": [
+        "Sentate con el tronco estable y tomá la barra delante de los hombros.",
+        "Empujá la barra hacia arriba y bajá de nuevo con control."
+      ],
+      "cue": "Mantené el abdomen activo y evitá arquear la espalda.",
+      "frames": [
+        "media/everkinetic/0004-0.svg",
+        "media/everkinetic/0004-1.svg"
+      ],
+      "sourceName": "Seated Military Press",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0054": {
+      "title": "Fondos en paralelas para pecho",
+      "steps": [
+        "Sujetá las barras paralelas y sostené el cuerpo con los brazos extendidos.",
+        "Flexioná los codos para descender y empujá para subir."
+      ],
+      "cue": "Controlá el descenso; el entrenador debe ajustar la amplitud.",
+      "frames": [
+        "media/everkinetic/0054-1.svg",
+        "media/everkinetic/0054-0.svg"
+      ],
+      "sourceName": "Chest Dips",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0198": {
+      "title": "Extensión de tríceps con mancuerna de pie",
+      "steps": [
+        "Parate con el tronco estable y sostené una mancuerna con ambas manos por encima de la cabeza.",
+        "Flexioná los codos para bajar la mancuerna detrás de la cabeza y extendelos para regresar."
+      ],
+      "cue": "Mantené los codos cerca de la cabeza sin arquear la espalda.",
+      "frames": [
+        "media/everkinetic/0198-1.svg",
+        "media/everkinetic/0198-0.svg"
+      ],
+      "sourceName": "Standing Triceps Extension",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0183": {
+      "title": "Francés con barra en banco",
+      "steps": [
+        "Acostate en un banco con los pies apoyados y sujetá la barra sobre el pecho.",
+        "Flexioná los codos para bajar la barra hacia la cabeza y volvé a extenderlos."
+      ],
+      "cue": "Mantené estables los brazos por encima del codo y pedí asistencia para ubicar la barra.",
+      "frames": [
+        "media/everkinetic/0183-1.svg",
+        "media/everkinetic/0183-0.svg"
+      ],
+      "sourceName": "Lying Triceps Press with Barbell",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "0292": {
+      "title": "Abdominal en banco declinado",
+      "steps": [
+        "Acostate boca arriba en el banco con los pies asegurados bajo los apoyos.",
+        "Acercá el pecho hacia la pelvis y volvé con control."
+      ],
+      "cue": "Confirmá con el entrenador la inclinación del banco indicada para tu rutina.",
+      "frames": [
+        "media/everkinetic/0292-0.svg",
+        "media/everkinetic/0292-1.svg"
+      ],
+      "sourceName": "Decline Crunch",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "author": "Everkinetic · Greg Priday",
+      "adaptation": "Indicaciones adaptadas al español; ilustraciones copiadas sin modificar."
+    },
+    "original-remo": {
+      "title": "Remo con mancuerna a un brazo",
+      "steps": [
+        "Apoyá una mano y una rodilla en el banco; dejá el otro pie firme en el piso.",
+        "Desde el brazo extendido, llevá el codo hacia la cadera. Bajá la mancuerna despacio antes de cambiar de lado."
+      ],
+      "cue": "Evitá girar el tronco para levantar la carga.",
+      "video": "media/remo-mancuerna.mp4",
+      "poster": "images/remo-mancuerna-01.webp",
+      "author": "Shelby Gym · muestra original",
+      "license": "Uso autorizado por el gimnasio",
+      "source": "https://github.com/calderondante/Shelby-Gym/tree/gh-pages/rutinas"
+    },
+    "original-puente": {
+      "title": "Elevación de pelvis en colchoneta",
+      "steps": [
+        "Acostate boca arriba con las rodillas flexionadas y los pies en el piso.",
+        "Empujá con los pies y elevá la cadera de forma controlada. Bajá sin dejarla caer."
+      ],
+      "cue": "Buscá el esfuerzo en glúteos sin arquear de más la zona lumbar.",
+      "video": "media/puente-gluteos.mp4",
+      "poster": "images/puente-gluteos-01.webp",
+      "author": "Shelby Gym · muestra original",
+      "license": "Uso autorizado por el gimnasio",
+      "source": "https://github.com/calderondante/Shelby-Gym/tree/gh-pages/rutinas"
+    },
+    "shelby-elevacion-piernas": {
+      "title": "Elevación de piernas en colchoneta",
+      "steps": [
+        "Acostate boca arriba en una colchoneta, con los brazos junto al cuerpo y las piernas juntas.",
+        "Elevá las piernas con control y volvé a bajarlas sin dejar que caigan."
+      ],
+      "cue": "Mantené la espalda estable sobre la colchoneta; pedí al entrenador que ajuste el recorrido a tu control.",
+      "frames": [
+        "media/shelby/elevacion-piernas.webp",
+        "media/shelby/elevacion-piernas.webp",
+        "media/shelby/elevacion-piernas.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, cuerpo, colchoneta y encuadre. No procede del PDF y no se presenta como fotografía."
+    },
+    "shelby-lat-nuca": {
+      "title": "Tirón a la nuca",
+      "steps": [
+        "Sentate en la dorsalera con los muslos bajo los apoyos y tomá la barra con agarre abierto.",
+        "Llevá la barra detrás de la cabeza hacia la parte alta de los hombros y volvé a extender los brazos."
+      ],
+      "cue": "Mantené el cuello neutro y no fuerces el recorrido; pedí al entrenador que revise esta variante.",
+      "frames": [
+        "media/shelby/lat-nuca.webp",
+        "media/shelby/lat-nuca.webp",
+        "media/shelby/lat-nuca.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+    },
+    "shelby-lat-pecho": {
+      "title": "Dorsalera alta al pecho",
+      "steps": [
+        "Sentate con los muslos bajo los apoyos y tomá la barra con un agarre abierto.",
+        "Llevá la barra por delante de la cara hacia la parte alta del pecho y regresá con control."
+      ],
+      "cue": "Evitá balancearte para tirar de la barra y mantené el tronco estable.",
+      "frames": [
+        "media/shelby/lat-pecho.webp",
+        "media/shelby/lat-pecho.webp",
+        "media/shelby/lat-pecho.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+    },
+    "shelby-abduccion-polea": {
+      "title": "Abducción de cadera con tobillera",
+      "steps": [
+        "Colocá la tobillera en una polea baja y parate de costado, sujetándote del soporte.",
+        "Separá la pierna conectada a la polea hacia el costado y regresá con control."
+      ],
+      "cue": "Mantené la pelvis nivelada y evitá inclinar el tronco para elevar la pierna.",
+      "frames": [
+        "media/shelby/abduccion-polea.webp",
+        "media/shelby/abduccion-polea.webp",
+        "media/shelby/abduccion-polea.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+    },
+    "shelby-martillo-sentado": {
+      "title": "Martillo sentado a dos manos",
+      "steps": [
+        "Sentate con los pies apoyados y una mancuerna en cada mano, con las palmas enfrentadas.",
+        "Flexioná ambos codos para elevar las mancuernas y bajalas con control."
+      ],
+      "cue": "Conservá el agarre neutro y los codos junto al cuerpo, sin balancear el tronco.",
+      "frames": [
+        "media/shelby/martillo-sentado.webp",
+        "media/shelby/martillo-sentado.webp",
+        "media/shelby/martillo-sentado.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+    },
+    "shelby-crunch": {
+      "title": "Abdominal corto en colchoneta",
+      "steps": [
+        "Acostate boca arriba con las rodillas flexionadas, los pies apoyados y los brazos cruzados sobre el pecho.",
+        "Elevá la parte alta de la espalda acercando el pecho a la pelvis y regresá con control."
+      ],
+      "cue": "Mantené la pelvis apoyada; el movimiento es corto y no se completa sentándose.",
+      "frames": [
+        "media/shelby/crunch.webp",
+        "media/shelby/crunch.webp",
+        "media/shelby/crunch.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+    },
+    "shelby-gluteos-maquina": {
+      "title": "Patada de glúteos en máquina",
+      "steps": [
+        "Apoyá los antebrazos en la máquina y ubicá la planta del pie sobre la plataforma móvil.",
+        "Empujá la plataforma llevando la pierna hacia atrás y regresá con control."
+      ],
+      "cue": "Conservá el apoyo de la otra pierna y evitá arquear la espalda. Ajustá la máquina con el entrenador.",
+      "frames": [
+        "media/shelby/gluteos-maquina.webp",
+        "media/shelby/gluteos-maquina.webp",
+        "media/shelby/gluteos-maquina.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+    },
+    "shelby-sumo-disco": {
+      "title": "Sentadilla sumo con disco",
+      "steps": [
+        "Parate con los pies separados y las puntas orientadas hacia afuera; sostené un disco delante del cuerpo.",
+        "Flexioná cadera y rodillas para bajar el disco entre las piernas y empujá el piso para volver."
+      ],
+      "cue": "Mantené las rodillas alineadas con los pies y el tronco estable.",
+      "frames": [
+        "media/shelby/sumo-disco.webp",
+        "media/shelby/sumo-disco.webp",
+        "media/shelby/sumo-disco.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+    },
+    "shelby-remo-dos-mancuernas": {
+      "title": "Remo con dos mancuernas",
+      "steps": [
+        "Incliná el tronco desde la cadera, flexioná levemente las rodillas y dejá las mancuernas debajo de los hombros.",
+        "Llevá ambos codos hacia atrás acercando las mancuernas a la cintura y volvé a extender los brazos."
+      ],
+      "cue": "Mantené estable el tronco, sin levantarte para tirar del peso.",
+      "frames": [
+        "media/shelby/remo-dos-mancuernas.webp",
+        "media/shelby/remo-dos-mancuernas.webp",
+        "media/shelby/remo-dos-mancuernas.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+    },
+    "shelby-prensa-vertical": {
+      "title": "Prensa vertical a 90°",
+      "steps": [
+        "Acostate en el apoyo con la espalda y la pelvis estables; apoyá los pies debajo de la plataforma.",
+        "Empujá la plataforma hacia arriba extendiendo las piernas y bajá con control."
+      ],
+      "cue": "No trabes las rodillas y pedí al entrenador que ajuste los seguros antes de empezar.",
+      "frames": [
+        "media/shelby/prensa-vertical.webp",
+        "media/shelby/prensa-vertical.webp",
+        "media/shelby/prensa-vertical.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+    },
+    "shelby-femoral-polea": {
+      "title": "Flexión femoral en polea baja",
+      "steps": [
+        "Colocá la tobillera en la polea baja y sujetate del soporte para mantener el equilibrio.",
+        "Flexioná la rodilla acercando el talón al glúteo y volvé a bajar con control."
+      ],
+      "cue": "Mantené el muslo estable y evitá transformar el ejercicio en una patada de cadera.",
+      "frames": [
+        "media/shelby/femoral-polea.webp",
+        "media/shelby/femoral-polea.webp",
+        "media/shelby/femoral-polea.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+    },
+    "shelby-twister": {
+      "title": "Giro en disco / twister",
+      "steps": [
+        "Parate sobre el disco con los pies firmes y sujetá el apoyo de la máquina.",
+        "Girá suavemente la parte baja del cuerpo hacia un lado y hacia el otro."
+      ],
+      "cue": "Mantené estable el tronco y no fuerces el giro de las rodillas.",
+      "frames": [
+        "media/shelby/twister.webp",
+        "media/shelby/twister.webp",
+        "media/shelby/twister.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+    },
+    "shelby-elevacion-pelvis-maquina": {
+      "title": "Elevación de pelvis en máquina",
+      "steps": [
+        "Ubicá la parte alta de la espalda en el apoyo, los pies en el piso y la almohadilla sobre la cadera.",
+        "Elevá la pelvis empujando con los pies y bajá de forma controlada."
+      ],
+      "cue": "No arquees la zona lumbar; confirmá la posición de los apoyos con el entrenador.",
+      "frames": [
+        "media/shelby/elevacion-pelvis-maquina.webp",
+        "media/shelby/elevacion-pelvis-maquina.webp",
+        "media/shelby/elevacion-pelvis-maquina.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+    },
+    "shelby-prensa-horizontal": {
+      "title": "Prensa horizontal",
+      "steps": [
+        "Sentate en la máquina con la espalda y la pelvis apoyadas, y ambos pies sobre la plataforma.",
+        "Empujá la plataforma hacia adelante extendiendo las piernas y regresá con control."
+      ],
+      "cue": "No trabes las rodillas ni despegues la pelvis del asiento. Ajustá los seguros con el entrenador.",
+      "frames": [
+        "media/shelby/prensa-horizontal.webp",
+        "media/shelby/prensa-horizontal.webp",
+        "media/shelby/prensa-horizontal.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Ilustración creada con image_gen y corregida tras revisar el desplazamiento de la plataforma. No es una filmación ni una imagen extraída del PDF."
+    },
+    "shelby-frances-polea": {
+      "title": "Francés de pie en polea",
+      "steps": [
+        "Ubicate de espaldas a una polea alta, sujetando la soga por detrás de la cabeza, con un pie delante del otro.",
+        "Extendé los codos llevando las manos hacia adelante y arriba, y regresá con control."
+      ],
+      "cue": "Mantené estable el tronco y los brazos por encima del codo.",
+      "frames": [
+        "media/shelby/frances-polea.webp",
+        "media/shelby/frances-polea.webp",
+        "media/shelby/frances-polea.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea y revisada visualmente; tres posiciones sin interpolar anatomía."
+    },
+    "shelby-remo-polea-abierto": {
+      "title": "Remo en polea baja con agarre abierto",
+      "steps": [
+        "Sentate con los pies apoyados y tomá la barra con un agarre abierto, manteniendo el tronco estable.",
+        "Llevá la barra hacia la parte alta del abdomen y volvé a extender los brazos con control."
+      ],
+      "cue": "No balancees el tronco para tirar del peso.",
+      "frames": [
+        "media/shelby/remo-polea-abierto.webp",
+        "media/shelby/remo-polea-abierto.webp",
+        "media/shelby/remo-polea-abierto.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea y revisada visualmente; tres posiciones sin interpolar anatomía."
+    },
+    "shelby-estocada": {
+      "title": "Estocada hacia adelante",
+      "steps": [
+        "Parate con los pies firmes y el tronco erguido.",
+        "Dá un paso hacia adelante, flexioná ambas rodillas y empujá el piso para regresar."
+      ],
+      "cue": "Mantené la rodilla delantera alineada con el pie; el entrenador indica la carga y la amplitud.",
+      "frames": [
+        "media/shelby/estocada.webp",
+        "media/shelby/estocada.webp",
+        "media/shelby/estocada.webp"
+      ],
+      "sprite": true,
+      "author": "Shelby Gym · guía ilustrada",
+      "license": "Ilustración secuencial",
+      "source": "creditos.html#ilustraciones-shelby",
+      "provenance": "Creada con image_gen en esta tarea y revisada visualmente; tres posiciones sin interpolar anatomía."
+    }
+  },
+  "mapping": {
+    "camilla-cuadriceps": [
+      "0142"
+    ],
+    "camilla-de-cuadriceps": [
+      "0142"
+    ],
+    "extensiones-en-camilla": [
+      "0142"
+    ],
+    "camilla-de-femorales": [
+      "0117"
+    ],
+    "camilla-femoral": [
+      "0117"
+    ],
+    "camilla-para-femorales": [
+      "0117"
+    ],
+    "camilla-para-isquiotibiales": [
+      "0117"
+    ],
+    "femorales-en-camilla": [
+      "0117"
+    ],
+    "flexiones-en-camilla": [
+      "0117"
+    ],
+    "vuelos-laterales": [
+      "0018"
+    ],
+    "alternado-curl-de-biceps": [
+      "0223"
+    ],
+    "alternado-con-mancuernas": [
+      "0223"
+    ],
+    "polea-con-soga-para-triceps": [
+      "0206"
+    ],
+    "triceps-con-soga": [
+      "0206"
+    ],
+    "sentadillas-en-smith": [
+      "0124"
+    ],
+    "press-inclinado-en-maquina": [
+      "0084"
+    ],
+    "inclinado-c-maquina": [
+      "0084"
+    ],
+    "apertura-inclinada": [
+      "0062"
+    ],
+    "apertura-30": [
+      "0062"
+    ],
+    "press-con-mancuerna-para-hombros": [
+      "0012"
+    ],
+    "press-con-mancuernas": [
+      "0012"
+    ],
+    "press-c-mancuernas": [
+      "0012"
+    ],
+    "fondos-para-triceps": [
+      "0162"
+    ],
+    "flexiones-en-banco": [
+      "0162"
+    ],
+    "triceps-flexiones-en-banco": [
+      "0162"
+    ],
+    "pantorrilla-sentada": [
+      "0279"
+    ],
+    "pantorrillas-sentado": [
+      "0279"
+    ],
+    "pantorrillas-sentada": [
+      "0279"
+    ],
+    "vuelo-frontal-con-barra": [
+      "0007"
+    ],
+    "vuelos-frontales-con-barra": [
+      "0007"
+    ],
+    "elevacion-frontal-con-barra": [
+      "0007"
+    ],
+    "elevacion-frontal-c-barra": [
+      "0007"
+    ],
+    "posteriores-con-mancuernas": [
+      "0023"
+    ],
+    "posteriores-c-mancuernas": [
+      "0023"
+    ],
+    "curl-parado-con-barra": [
+      "0211"
+    ],
+    "biceps-con-barra": [
+      "0211"
+    ],
+    "biceps-c-barra": [
+      "0211"
+    ],
+    "alternado-martillo": [
+      "0213"
+    ],
+    "alternado-con-martillo": [
+      "0213"
+    ],
+    "prensa-45": [
+      "0127"
+    ],
+    "prensa-45o": [
+      "0127"
+    ],
+    "pantorrilla-parada": [
+      "0282"
+    ],
+    "pantorrilla-parado": [
+      "0282"
+    ],
+    "pantorrillas-parada": [
+      "0282"
+    ],
+    "pantorrillas-parado": [
+      "0282"
+    ],
+    "press-banco-plano": [
+      "0042"
+    ],
+    "press-plano-c-barra": [
+      "0042"
+    ],
+    "oblicuos-con-mancuernas": [
+      "0294"
+    ],
+    "peck-deck": [
+      "0047"
+    ],
+    "mariposa": [
+      "0047"
+    ],
+    "press-en-maquina-para-hombros": [
+      "0003"
+    ],
+    "press-con-maquina": [
+      "0003"
+    ],
+    "vuelos-frontales": [
+      "0010"
+    ],
+    "frontales-c-mancuerna": [
+      "0010"
+    ],
+    "triceps-con-polea": [
+      "0205"
+    ],
+    "polea-para-triceps": [
+      "0205"
+    ],
+    "extensiones-con-polea": [
+      "0205"
+    ],
+    "copa": [
+      "0194"
+    ],
+    "remo-polea-baja": [
+      "0025"
+    ],
+    "dorsalera-baja": [
+      "0025"
+    ],
+    "remo-al-menton": [
+      "0014"
+    ],
+    "hack": [
+      "0123"
+    ],
+    "aductores-en-sillon": [
+      "0157"
+    ],
+    "agarre-invertido-al-pecho-en-dorsalera": [
+      "0093"
+    ],
+    "dorsales-alta-agarre-invertido": [
+      "0093"
+    ],
+    "abductores-en-sillon": [
+      "0156"
+    ],
+    "press-inclinado-con-barra": [
+      "0043"
+    ],
+    "press-inclinado-c-barra": [
+      "0043"
+    ],
+    "inclinado-con-barra": [
+      "0043"
+    ],
+    "inclinado-c-barra": [
+      "0043"
+    ],
+    "press-plano-con-mancuernas": [
+      "0055"
+    ],
+    "press-plano-c-mancuerna": [
+      "0055"
+    ],
+    "plano-con-mancuerna": [
+      "0055"
+    ],
+    "apertura-plana": [
+      "0056"
+    ],
+    "triangulo-al-pecho": [
+      "0096"
+    ],
+    "tirones-al-pecho-con-triangulo": [
+      "0096"
+    ],
+    "banco-scott-a-un-brazo": [
+      "0237"
+    ],
+    "scott-con-mancuernas-biceps": [
+      "0237"
+    ],
+    "peso-muerto": [
+      "0099"
+    ],
+    "hiperextensiones": [
+      "0103"
+    ],
+    "pullover": [
+      "0079"
+    ],
+    "concentrado": [
+      "0220"
+    ],
+    "concentrado-c-mancuerna": [
+      "0220"
+    ],
+    "patada-atras-triceps": [
+      "0204"
+    ],
+    "patada-atras-con-mancuernas-parado": [
+      "0204"
+    ],
+    "apertura-declinada": [
+      "0053"
+    ],
+    "encogimiento-con-barra": [
+      "0030"
+    ],
+    "encogimiento-c-barra": [
+      "0030"
+    ],
+    "sentadillas": [
+      "0122"
+    ],
+    "sentadilla-libre": [
+      "0122"
+    ],
+    "biceps-en-maquina-scott": [
+      "0236"
+    ],
+    "pantorrilla-c-prensa": [
+      "0273"
+    ],
+    "pantorrilla-en-prensa": [
+      "0273"
+    ],
+    "pantorrilla-prensa-45": [
+      "0273"
+    ],
+    "peso-muerto-con-mancuernas": [
+      "0107"
+    ],
+    "posteriores-c-polea": [
+      "0017"
+    ],
+    "acostado-c-mancuerna-cruzado-triceps": [
+      "0182"
+    ],
+    "dominadas-abiertas": [
+      "0087"
+    ],
+    "prensa-45-pies-juntos": [
+      "0143"
+    ],
+    "patada-con-polea-baja": [
+      "0112"
+    ],
+    "patada-c-polea-baja": [
+      "0112"
+    ],
+    "gluteos-en-polea-baja": [
+      "0112"
+    ],
+    "press-c-barra": [
+      "0004"
+    ],
+    "fondos-en-paralelas": [
+      "0054"
+    ],
+    "elevacion-de-piernas-en-colchoneta": [
+      "shelby-elevacion-piernas"
+    ],
+    "remo-con-mancuerna": [
+      "original-remo"
+    ],
+    "remo-c-mancuerna": [
+      "original-remo"
+    ],
+    "remo-a-1-brazo-c-mancuerna": [
+      "original-remo"
+    ],
+    "dorsalera-alta-al-pecho": [
+      "shelby-lat-pecho"
+    ],
+    "tirones-al-pecho": [
+      "shelby-lat-pecho"
+    ],
+    "abdominales-en-colchoneta": [
+      "shelby-crunch"
+    ],
+    "abdominales-cortos-en-colchoneta": [
+      "shelby-crunch"
+    ],
+    "tirones-a-la-nuca": [
+      "shelby-lat-nuca"
+    ],
+    "dorsalera-alta-a-la-nuca": [
+      "shelby-lat-nuca"
+    ],
+    "abductores-en-con-tobillera": [
+      "shelby-abduccion-polea"
+    ],
+    "martillo-sentado-a-dos-manos": [
+      "shelby-martillo-sentado"
+    ],
+    "elevacion-de-pelvis": [
+      "original-puente"
+    ],
+    "encogimientos": [
+      "0005"
+    ],
+    "elevacion-de-hombro": [
+      "0005"
+    ],
+    "frances-con-barra": [
+      "0183"
+    ],
+    "patada-de-gluteos-en-maquina": [
+      "shelby-gluteos-maquina"
+    ],
+    "patada-c-maquina": [
+      "shelby-gluteos-maquina"
+    ],
+    "patada-en-maquina": [
+      "shelby-gluteos-maquina"
+    ],
+    "patada-en-maquina-gluteos": [
+      "shelby-gluteos-maquina"
+    ],
+    "sumo-con-disco": [
+      "shelby-sumo-disco"
+    ],
+    "remo-con-mancuernas": [
+      "shelby-remo-dos-mancuernas"
+    ],
+    "prensa-90": [
+      "shelby-prensa-vertical"
+    ],
+    "femorales-en-polea": [
+      "shelby-femoral-polea"
+    ],
+    "twister": [
+      "shelby-twister"
+    ],
+    "giro-en-disco": [
+      "shelby-twister"
+    ],
+    "elevacion-de-pelvis-con-maquina": [
+      "shelby-elevacion-pelvis-maquina"
+    ],
+    "prensa-horizontal": [
+      "shelby-prensa-horizontal"
+    ],
+    "frances-parado-c-polea": [
+      "shelby-frances-polea"
+    ],
+    "remo-polea-baja-agarre-abierto": [
+      "shelby-remo-polea-abierto"
+    ],
+    "estocadas": [
+      "shelby-estocada"
+    ],
+    "triceps-con-mancuerna-parrado": [
+      "0198"
+    ],
+    "prensa-45-extensiones-en-camilla": [
+      "0127",
+      "0142"
+    ],
+    "peso-muerto-flexiones-en-camilla": [
+      "0099",
+      "0117"
+    ],
+    "apertura-inclinada-peck-deck": [
+      "0062",
+      "0047"
+    ],
+    "frontales-vuelos-laterales": [
+      "0010",
+      "0018"
+    ],
+    "vuelos-laterales-remo-al-menton": [
+      "0018",
+      "0014"
+    ],
+    "alternado-con-mancuerna-triceps-en-polea": [
+      "0223",
+      "0205"
+    ],
+    "biceps-c-barra-parado-triceps-polea": [
+      "0211",
+      "0205"
+    ],
+    "press-c-mancuernas-vuelos-laterales": [
+      "0012",
+      "0018"
+    ],
+    "apertura-declinada-pullover": [
+      "0053",
+      "0079"
+    ],
+    "posterior-press-c-mancuernas": [
+      "0023",
+      "0012"
+    ],
+    "abductores-y-aductores-c-maquina": [
+      "0156",
+      "0157"
+    ],
+    "elevacion-de-piernas-cortos-en-colchoneta": [
+      "shelby-elevacion-piernas",
+      "shelby-crunch"
+    ],
+    "abdominales-en-banco-oblicuos-con-mancuernas": [
+      "0292",
+      "0294"
+    ],
+    "abdominales": [
+      "shelby-crunch",
+      "0292"
+    ],
+    "espinales-en-colchoneta-twister": [
+      "0105",
+      "shelby-twister"
+    ]
+  },
+  "upstreamCommit": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+}

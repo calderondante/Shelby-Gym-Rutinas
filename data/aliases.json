@@ -1,0 +1,288 @@
+{
+  "0142": [
+    "camilla-cuadriceps",
+    "camilla-de-cuadriceps",
+    "extensiones-en-camilla"
+  ],
+  "0117": [
+    "camilla-de-femorales",
+    "camilla-femoral",
+    "camilla-para-femorales",
+    "camilla-para-isquiotibiales",
+    "femorales-en-camilla",
+    "flexiones-en-camilla"
+  ],
+  "0018": [
+    "vuelos-laterales"
+  ],
+  "0223": [
+    "alternado-curl-de-biceps",
+    "alternado-con-mancuernas"
+  ],
+  "0206": [
+    "polea-con-soga-para-triceps",
+    "triceps-con-soga"
+  ],
+  "0124": [
+    "sentadillas-en-smith"
+  ],
+  "0084": [
+    "press-inclinado-en-maquina",
+    "inclinado-c-maquina"
+  ],
+  "0062": [
+    "apertura-inclinada",
+    "apertura-30"
+  ],
+  "0012": [
+    "press-con-mancuerna-para-hombros",
+    "press-con-mancuernas",
+    "press-c-mancuernas"
+  ],
+  "0162": [
+    "fondos-para-triceps",
+    "flexiones-en-banco",
+    "triceps-flexiones-en-banco"
+  ],
+  "0279": [
+    "pantorrilla-sentada",
+    "pantorrillas-sentado",
+    "pantorrillas-sentada"
+  ],
+  "0007": [
+    "vuelo-frontal-con-barra",
+    "vuelos-frontales-con-barra",
+    "elevacion-frontal-con-barra",
+    "elevacion-frontal-c-barra"
+  ],
+  "0023": [
+    "posteriores-con-mancuernas",
+    "posteriores-c-mancuernas"
+  ],
+  "0211": [
+    "curl-parado-con-barra",
+    "biceps-con-barra",
+    "biceps-c-barra"
+  ],
+  "0213": [
+    "alternado-martillo",
+    "alternado-con-martillo"
+  ],
+  "0127": [
+    "prensa-45",
+    "prensa-45o"
+  ],
+  "0282": [
+    "pantorrilla-parada",
+    "pantorrilla-parado",
+    "pantorrillas-parada",
+    "pantorrillas-parado"
+  ],
+  "0042": [
+    "press-banco-plano",
+    "press-plano-c-barra"
+  ],
+  "0294": [
+    "oblicuos-con-mancuernas"
+  ],
+  "0047": [
+    "peck-deck",
+    "mariposa"
+  ],
+  "0003": [
+    "press-en-maquina-para-hombros",
+    "press-con-maquina"
+  ],
+  "0010": [
+    "vuelos-frontales",
+    "frontales-c-mancuerna"
+  ],
+  "0205": [
+    "triceps-con-polea",
+    "polea-para-triceps",
+    "extensiones-con-polea"
+  ],
+  "0194": [
+    "copa"
+  ],
+  "0025": [
+    "remo-polea-baja",
+    "dorsalera-baja"
+  ],
+  "0014": [
+    "remo-al-menton"
+  ],
+  "0123": [
+    "hack"
+  ],
+  "0157": [
+    "aductores-en-sillon"
+  ],
+  "0093": [
+    "agarre-invertido-al-pecho-en-dorsalera",
+    "dorsales-alta-agarre-invertido"
+  ],
+  "0156": [
+    "abductores-en-sillon"
+  ],
+  "0043": [
+    "press-inclinado-con-barra",
+    "press-inclinado-c-barra",
+    "inclinado-con-barra",
+    "inclinado-c-barra"
+  ],
+  "0055": [
+    "press-plano-con-mancuernas",
+    "press-plano-c-mancuerna",
+    "plano-con-mancuerna"
+  ],
+  "0056": [
+    "apertura-plana"
+  ],
+  "0096": [
+    "triangulo-al-pecho",
+    "tirones-al-pecho-con-triangulo"
+  ],
+  "0237": [
+    "banco-scott-a-un-brazo",
+    "scott-con-mancuernas-biceps"
+  ],
+  "0099": [
+    "peso-muerto"
+  ],
+  "0103": [
+    "hiperextensiones"
+  ],
+  "0079": [
+    "pullover"
+  ],
+  "0220": [
+    "concentrado",
+    "concentrado-c-mancuerna"
+  ],
+  "0204": [
+    "patada-atras-triceps",
+    "patada-atras-con-mancuernas-parado"
+  ],
+  "0053": [
+    "apertura-declinada"
+  ],
+  "0030": [
+    "encogimiento-con-barra",
+    "encogimiento-c-barra"
+  ],
+  "0122": [
+    "sentadillas",
+    "sentadilla-libre"
+  ],
+  "0236": [
+    "biceps-en-maquina-scott"
+  ],
+  "0273": [
+    "pantorrilla-c-prensa",
+    "pantorrilla-en-prensa",
+    "pantorrilla-prensa-45"
+  ],
+  "0107": [
+    "peso-muerto-con-mancuernas"
+  ],
+  "0017": [
+    "posteriores-c-polea"
+  ],
+  "0182": [
+    "acostado-c-mancuerna-cruzado-triceps"
+  ],
+  "0087": [
+    "dominadas-abiertas"
+  ],
+  "0143": [
+    "prensa-45-pies-juntos"
+  ],
+  "0112": [
+    "patada-con-polea-baja",
+    "patada-c-polea-baja",
+    "gluteos-en-polea-baja"
+  ],
+  "0004": [
+    "press-c-barra"
+  ],
+  "0054": [
+    "fondos-en-paralelas"
+  ],
+  "shelby-elevacion-piernas": [
+    "elevacion-de-piernas-en-colchoneta"
+  ],
+  "original-remo": [
+    "remo-con-mancuerna",
+    "remo-c-mancuerna",
+    "remo-a-1-brazo-c-mancuerna"
+  ],
+  "shelby-lat-pecho": [
+    "dorsalera-alta-al-pecho",
+    "tirones-al-pecho"
+  ],
+  "shelby-crunch": [
+    "abdominales-en-colchoneta",
+    "abdominales-cortos-en-colchoneta"
+  ],
+  "shelby-lat-nuca": [
+    "tirones-a-la-nuca",
+    "dorsalera-alta-a-la-nuca"
+  ],
+  "shelby-abduccion-polea": [
+    "abductores-en-con-tobillera"
+  ],
+  "shelby-martillo-sentado": [
+    "martillo-sentado-a-dos-manos"
+  ],
+  "original-puente": [
+    "elevacion-de-pelvis"
+  ],
+  "0005": [
+    "encogimientos",
+    "elevacion-de-hombro"
+  ],
+  "0183": [
+    "frances-con-barra"
+  ],
+  "shelby-gluteos-maquina": [
+    "patada-de-gluteos-en-maquina",
+    "patada-c-maquina",
+    "patada-en-maquina",
+    "patada-en-maquina-gluteos"
+  ],
+  "shelby-sumo-disco": [
+    "sumo-con-disco"
+  ],
+  "shelby-remo-dos-mancuernas": [
+    "remo-con-mancuernas"
+  ],
+  "shelby-prensa-vertical": [
+    "prensa-90"
+  ],
+  "shelby-femoral-polea": [
+    "femorales-en-polea"
+  ],
+  "shelby-twister": [
+    "twister",
+    "giro-en-disco"
+  ],
+  "shelby-elevacion-pelvis-maquina": [
+    "elevacion-de-pelvis-con-maquina"
+  ],
+  "shelby-prensa-horizontal": [
+    "prensa-horizontal"
+  ],
+  "shelby-frances-polea": [
+    "frances-parado-c-polea"
+  ],
+  "shelby-remo-polea-abierto": [
+    "remo-polea-baja-agarre-abierto"
+  ],
+  "shelby-estocada": [
+    "estocadas"
+  ],
+  "0198": [
+    "triceps-con-mancuerna-parrado"
+  ]
+}

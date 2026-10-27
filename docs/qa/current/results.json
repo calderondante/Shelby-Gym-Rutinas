@@ -1,0 +1,45 @@
+{
+  "engine": "Chromium headless",
+  "physicalDevices": false,
+  "viewports": [
+    {
+      "width": 375,
+      "overflow": false,
+      "keyboardSkip": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "keyboardSkip": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "keyboardSkip": true
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "keyboardSkip": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "keyboardSkip": true
+    }
+  ],
+  "sessions": 40,
+  "checks": [
+    "Filtros, búsqueda y estado vacío",
+    "Navegación directa de los 40 días/sesiones y 301 ejercicios del PDF",
+    "Avance persistente, reinicio y deshacer",
+    "Secuencia automática, pausa, paso siguiente y movimiento reducido",
+    "Pausa fuera de pantalla",
+    "Hoja secuencial recortada: una posición visible y avance manual",
+    "Selector del movimiento de una combinación",
+    "MP4 del GIF original: reproducción, silencio y pausa",
+    "Cinco anchos, imágenes decodificadas y enlace de salto con teclado"
+  ],
+  "javascriptErrors": [],
+  "webkitAvailable": false
+}

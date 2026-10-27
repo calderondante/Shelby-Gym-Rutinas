@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b0b0d">
+  <meta name="description" content="Las rutinas de Shelby Gym, día por día. Consultá tus series, repeticiones y demostraciones visuales mientras entrenás.">
+  <title>Rutinas · Shelby Gym</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Ir al contenido</a>
+  <header class="site-header"><div class="header-inner wrap">
+    <a class="brand" href="?" data-route aria-label="Shelby Gym, todas las rutinas"><span class="brand-emblem" aria-hidden="true"><img src="images/shelby-reference.jpg" width="574" height="1280" alt=""></span><span class="brand-wordmark" translate="no">SHELBY<span>GYM</span></span></a>
+    <span class="header-label">GUÍA DE ENTRENAMIENTO</span><a class="header-action" id="home-link" href="?" data-route hidden>Cambiar rutina</a>
+    <a class="help-link" href="#como-usar">Cómo usar la guía <span aria-hidden="true"><svg class="external-icon" aria-hidden="true" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 13 13 3M3 3h10v10"/></svg></span></a>
+  </div></header>
+  <main id="contenido">
+    <p id="loading" class="loading wrap" role="status">Cargando las rutinas…</p>
+    <section id="load-error" class="wrap empty" role="alert" hidden><h1>No pudimos cargar las rutinas</h1><p>Revisá tu conexión y recargá la página.</p><button class="button" onclick="location.reload()">Volver a intentar</button><a class="text-button" href="source/RUTINAS.pdf">Abrir la planilla en PDF</a></section>
+    <div id="catalog-view" hidden>
+      <section class="hero"><div class="hero-inner wrap"><div><p class="eyebrow">EL PRÓXIMO PASO ES TUYO</p><h1>Tu rutina.<br>Paso a paso<span>.</span></h1><p class="hero-description">Sabé qué hacer, cómo moverte y qué sigue.<br> Tu entrenamiento de Shelby, siempre a mano.</p><a class="button" href="#rutinas">Elegir mi rutina <svg aria-hidden="true" width="16" height="18" viewBox="0 0 16 18" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M8 1v14M3 10l5 5 5-5"/></svg></a></div><div class="hero-aside"><span class="hero-mark" aria-hidden="true">S<span>/</span>G</span><p>CONSTANCIA.<br>TÉCNICA.<br>PROGRESO.</p><div><strong>14</strong><span>rutinas del gimnasio<br>Sin registro. A tu ritmo.</span></div></div></div></section>
+      <section class="catalog wrap" id="rutinas" aria-labelledby="catalog-title"><div class="section-heading"><div><p class="eyebrow">TU ENTRENAMIENTO EMPIEZA ACÁ</p><h2 id="catalog-title" tabindex="-1">Elegí tu rutina</h2></div><p>Buscá el nombre que te indicó tu entrenador.<br>Las categorías conservan las de la planilla.</p></div>
+        <div class="catalog-tools"><div class="filters" role="group" aria-label="Filtrar rutinas"><button type="button" data-category="todas" aria-pressed="true">Todas</button><button type="button" data-category="adaptacion" aria-pressed="false">Adaptación</button><button type="button" data-category="femenina" aria-pressed="false">Femeninas</button><button type="button" data-category="masculina" aria-pressed="false">Masculinas</button></div><label class="search-label"><span class="sr-only">Buscar rutina por nombre o número</span><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg><input id="routine-search" type="search" placeholder="Buscar rutina…" autocomplete="off"></label></div>
+        <p class="catalog-count small muted" id="catalog-count" aria-live="polite"></p><div class="routine-grid" id="routine-grid"></div>
+      </section>
+    </div>
+    <div id="workout-view" hidden></div>
+    <section id="como-usar" class="how-to wrap" aria-labelledby="help-title"><p class="eyebrow">UNA GUÍA PARA ENTRENAR CON CLARIDAD</p><h2 id="help-title">Concentrate en moverte bien.</h2><ol><li><span>01</span><div><h3>Elegí tu plan y tu día</h3><p>Seguí la rutina que te asignó el entrenador, con el orden y la dosis de la planilla.</p></div></li><li><span>02</span><div><h3>Mirá el recorrido</h3><p>La secuencia se reproduce al estar en pantalla. Podés pausarla o ver cada posición a tu ritmo.</p></div></li><li><span>03</span><div><h3>Marcá tu avance</h3><p>Al terminar un ejercicio, marcá “Hecho”. Podés desmarcarlo en cualquier momento.</p></div></li></ol><p class="trainer-note">Si una variante o un descanso no están definidos, consultá al entrenador. Las ilustraciones acompañan su indicación y no reemplazan la revisión de tu técnica.</p></section>
+    <noscript><section class="wrap empty"><h2>Consultá la planilla original</h2><p>Activá JavaScript para elegir rutina y reproducir las demostraciones, o abrí el documento.</p><a class="button" href="source/RUTINAS.pdf">Ver rutinas en PDF</a></section></noscript>
+  </main>
+  <footer class="site-footer wrap"><div class="footer-brand" translate="no">SHELBY <span>GYM</span><p>Tu esfuerzo. Tu progreso.</p></div><div><a href="source/RUTINAS.pdf">Planilla original <svg class="external-icon" aria-hidden="true" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 13 13 3M3 3h10v10"/></svg></a><a href="creditos.html">Créditos de las demostraciones <svg class="external-icon" aria-hidden="true" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 13 13 3M3 3h10v10"/></svg></a></div><p>Guía pública de entrenamiento.</p></footer>
+</body>
+</html>

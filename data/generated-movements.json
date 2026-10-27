@@ -1,0 +1,308 @@
+{
+  "shelby-elevacion-piernas": {
+    "title": "Elevación de piernas en colchoneta",
+    "steps": [
+      "Acostate boca arriba en una colchoneta, con los brazos junto al cuerpo y las piernas juntas.",
+      "Elevá las piernas con control y volvé a bajarlas sin dejar que caigan."
+    ],
+    "cue": "Mantené la espalda estable sobre la colchoneta; pedí al entrenador que ajuste el recorrido a tu control.",
+    "frames": [
+      "media/shelby/elevacion-piernas.webp",
+      "media/shelby/elevacion-piernas.webp",
+      "media/shelby/elevacion-piernas.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, cuerpo, colchoneta y encuadre. No procede del PDF y no se presenta como fotografía."
+  },
+  "shelby-lat-nuca": {
+    "title": "Tirón a la nuca",
+    "steps": [
+      "Sentate en la dorsalera con los muslos bajo los apoyos y tomá la barra con agarre abierto.",
+      "Llevá la barra detrás de la cabeza hacia la parte alta de los hombros y volvé a extender los brazos."
+    ],
+    "cue": "Mantené el cuello neutro y no fuerces el recorrido; pedí al entrenador que revise esta variante.",
+    "frames": [
+      "media/shelby/lat-nuca.webp",
+      "media/shelby/lat-nuca.webp",
+      "media/shelby/lat-nuca.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+  },
+  "shelby-lat-pecho": {
+    "title": "Dorsalera alta al pecho",
+    "steps": [
+      "Sentate con los muslos bajo los apoyos y tomá la barra con un agarre abierto.",
+      "Llevá la barra por delante de la cara hacia la parte alta del pecho y regresá con control."
+    ],
+    "cue": "Evitá balancearte para tirar de la barra y mantené el tronco estable.",
+    "frames": [
+      "media/shelby/lat-pecho.webp",
+      "media/shelby/lat-pecho.webp",
+      "media/shelby/lat-pecho.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+  },
+  "shelby-abduccion-polea": {
+    "title": "Abducción de cadera con tobillera",
+    "steps": [
+      "Colocá la tobillera en una polea baja y parate de costado, sujetándote del soporte.",
+      "Separá la pierna conectada a la polea hacia el costado y regresá con control."
+    ],
+    "cue": "Mantené la pelvis nivelada y evitá inclinar el tronco para elevar la pierna.",
+    "frames": [
+      "media/shelby/abduccion-polea.webp",
+      "media/shelby/abduccion-polea.webp",
+      "media/shelby/abduccion-polea.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+  },
+  "shelby-martillo-sentado": {
+    "title": "Martillo sentado a dos manos",
+    "steps": [
+      "Sentate con los pies apoyados y una mancuerna en cada mano, con las palmas enfrentadas.",
+      "Flexioná ambos codos para elevar las mancuernas y bajalas con control."
+    ],
+    "cue": "Conservá el agarre neutro y los codos junto al cuerpo, sin balancear el tronco.",
+    "frames": [
+      "media/shelby/martillo-sentado.webp",
+      "media/shelby/martillo-sentado.webp",
+      "media/shelby/martillo-sentado.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+  },
+  "shelby-crunch": {
+    "title": "Abdominal corto en colchoneta",
+    "steps": [
+      "Acostate boca arriba con las rodillas flexionadas, los pies apoyados y los brazos cruzados sobre el pecho.",
+      "Elevá la parte alta de la espalda acercando el pecho a la pelvis y regresá con control."
+    ],
+    "cue": "Mantené la pelvis apoyada; el movimiento es corto y no se completa sentándose.",
+    "frames": [
+      "media/shelby/crunch.webp",
+      "media/shelby/crunch.webp",
+      "media/shelby/crunch.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea; revisión visual de tres posiciones y continuidad de cuerpo, equipo y apoyos. No procede del PDF ni se presenta como fotografía."
+  },
+  "shelby-gluteos-maquina": {
+    "title": "Patada de glúteos en máquina",
+    "steps": [
+      "Apoyá los antebrazos en la máquina y ubicá la planta del pie sobre la plataforma móvil.",
+      "Empujá la plataforma llevando la pierna hacia atrás y regresá con control."
+    ],
+    "cue": "Conservá el apoyo de la otra pierna y evitá arquear la espalda. Ajustá la máquina con el entrenador.",
+    "frames": [
+      "media/shelby/gluteos-maquina.webp",
+      "media/shelby/gluteos-maquina.webp",
+      "media/shelby/gluteos-maquina.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+  },
+  "shelby-sumo-disco": {
+    "title": "Sentadilla sumo con disco",
+    "steps": [
+      "Parate con los pies separados y las puntas orientadas hacia afuera; sostené un disco delante del cuerpo.",
+      "Flexioná cadera y rodillas para bajar el disco entre las piernas y empujá el piso para volver."
+    ],
+    "cue": "Mantené las rodillas alineadas con los pies y el tronco estable.",
+    "frames": [
+      "media/shelby/sumo-disco.webp",
+      "media/shelby/sumo-disco.webp",
+      "media/shelby/sumo-disco.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+  },
+  "shelby-remo-dos-mancuernas": {
+    "title": "Remo con dos mancuernas",
+    "steps": [
+      "Incliná el tronco desde la cadera, flexioná levemente las rodillas y dejá las mancuernas debajo de los hombros.",
+      "Llevá ambos codos hacia atrás acercando las mancuernas a la cintura y volvé a extender los brazos."
+    ],
+    "cue": "Mantené estable el tronco, sin levantarte para tirar del peso.",
+    "frames": [
+      "media/shelby/remo-dos-mancuernas.webp",
+      "media/shelby/remo-dos-mancuernas.webp",
+      "media/shelby/remo-dos-mancuernas.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+  },
+  "shelby-prensa-vertical": {
+    "title": "Prensa vertical a 90°",
+    "steps": [
+      "Acostate en el apoyo con la espalda y la pelvis estables; apoyá los pies debajo de la plataforma.",
+      "Empujá la plataforma hacia arriba extendiendo las piernas y bajá con control."
+    ],
+    "cue": "No trabes las rodillas y pedí al entrenador que ajuste los seguros antes de empezar.",
+    "frames": [
+      "media/shelby/prensa-vertical.webp",
+      "media/shelby/prensa-vertical.webp",
+      "media/shelby/prensa-vertical.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+  },
+  "shelby-femoral-polea": {
+    "title": "Flexión femoral en polea baja",
+    "steps": [
+      "Colocá la tobillera en la polea baja y sujetate del soporte para mantener el equilibrio.",
+      "Flexioná la rodilla acercando el talón al glúteo y volvé a bajar con control."
+    ],
+    "cue": "Mantené el muslo estable y evitá transformar el ejercicio en una patada de cadera.",
+    "frames": [
+      "media/shelby/femoral-polea.webp",
+      "media/shelby/femoral-polea.webp",
+      "media/shelby/femoral-polea.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+  },
+  "shelby-twister": {
+    "title": "Giro en disco / twister",
+    "steps": [
+      "Parate sobre el disco con los pies firmes y sujetá el apoyo de la máquina.",
+      "Girá suavemente la parte baja del cuerpo hacia un lado y hacia el otro."
+    ],
+    "cue": "Mantené estable el tronco y no fuerces el giro de las rodillas.",
+    "frames": [
+      "media/shelby/twister.webp",
+      "media/shelby/twister.webp",
+      "media/shelby/twister.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+  },
+  "shelby-elevacion-pelvis-maquina": {
+    "title": "Elevación de pelvis en máquina",
+    "steps": [
+      "Ubicá la parte alta de la espalda en el apoyo, los pies en el piso y la almohadilla sobre la cadera.",
+      "Elevá la pelvis empujando con los pies y bajá de forma controlada."
+    ],
+    "cue": "No arquees la zona lumbar; confirmá la posición de los apoyos con el entrenador.",
+    "frames": [
+      "media/shelby/elevacion-pelvis-maquina.webp",
+      "media/shelby/elevacion-pelvis-maquina.webp",
+      "media/shelby/elevacion-pelvis-maquina.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea. Revisión visual de tres posiciones, equipo y apoyos. No procede del PDF ni se presenta como filmación."
+  },
+  "shelby-prensa-horizontal": {
+    "title": "Prensa horizontal",
+    "steps": [
+      "Sentate en la máquina con la espalda y la pelvis apoyadas, y ambos pies sobre la plataforma.",
+      "Empujá la plataforma hacia adelante extendiendo las piernas y regresá con control."
+    ],
+    "cue": "No trabes las rodillas ni despegues la pelvis del asiento. Ajustá los seguros con el entrenador.",
+    "frames": [
+      "media/shelby/prensa-horizontal.webp",
+      "media/shelby/prensa-horizontal.webp",
+      "media/shelby/prensa-horizontal.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Ilustración creada con image_gen y corregida tras revisar el desplazamiento de la plataforma. No es una filmación ni una imagen extraída del PDF."
+  },
+  "shelby-frances-polea": {
+    "title": "Francés de pie en polea",
+    "steps": [
+      "Ubicate de espaldas a una polea alta, sujetando la soga por detrás de la cabeza, con un pie delante del otro.",
+      "Extendé los codos llevando las manos hacia adelante y arriba, y regresá con control."
+    ],
+    "cue": "Mantené estable el tronco y los brazos por encima del codo.",
+    "frames": [
+      "media/shelby/frances-polea.webp",
+      "media/shelby/frances-polea.webp",
+      "media/shelby/frances-polea.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea y revisada visualmente; tres posiciones sin interpolar anatomía."
+  },
+  "shelby-remo-polea-abierto": {
+    "title": "Remo en polea baja con agarre abierto",
+    "steps": [
+      "Sentate con los pies apoyados y tomá la barra con un agarre abierto, manteniendo el tronco estable.",
+      "Llevá la barra hacia la parte alta del abdomen y volvé a extender los brazos con control."
+    ],
+    "cue": "No balancees el tronco para tirar del peso.",
+    "frames": [
+      "media/shelby/remo-polea-abierto.webp",
+      "media/shelby/remo-polea-abierto.webp",
+      "media/shelby/remo-polea-abierto.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea y revisada visualmente; tres posiciones sin interpolar anatomía."
+  },
+  "shelby-estocada": {
+    "title": "Estocada hacia adelante",
+    "steps": [
+      "Parate con los pies firmes y el tronco erguido.",
+      "Dá un paso hacia adelante, flexioná ambas rodillas y empujá el piso para regresar."
+    ],
+    "cue": "Mantené la rodilla delantera alineada con el pie; el entrenador indica la carga y la amplitud.",
+    "frames": [
+      "media/shelby/estocada.webp",
+      "media/shelby/estocada.webp",
+      "media/shelby/estocada.webp"
+    ],
+    "sprite": true,
+    "author": "Shelby Gym · guía ilustrada",
+    "license": "Ilustración secuencial",
+    "source": "creditos.html#ilustraciones-shelby",
+    "provenance": "Creada con image_gen en esta tarea y revisada visualmente; tres posiciones sin interpolar anatomía."
+  }
+}

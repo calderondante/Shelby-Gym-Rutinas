@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "path": "/?rutina=rutina-de-adaptacion-para-hombres-y-mujeres&dia=sesion",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "path": "/?rutina=rutina-masculina-4&dia=dia-1",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "path": "/creditos.html",
+    "violations": [],
+    "incomplete": []
+  }
+]
