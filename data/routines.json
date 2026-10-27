@@ -1,0 +1,2865 @@
+{
+  "source": {
+    "file": "source/RUTINAS.pdf",
+    "pages": 38,
+    "title": "RUTINAS.pdf",
+    "revision": "d5db31940c3905f049ef593aadd6fbbc9c34b4a77c092e56643b5666890198b5",
+    "approval": "Material aportado y aprobado por el gimnasio en esta conversación"
+  },
+  "routines": [
+    {
+      "id": "rutina-de-adaptacion-para-hombres-y-mujeres",
+      "title": "Rutina de adaptacion para hombres y mujeres",
+      "category": "adaptacion",
+      "page": 2,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "sesion",
+          "number": 1,
+          "title": "Sesión de adaptación",
+          "page": 2,
+          "exercises": [
+            {
+              "id": "sesion-1",
+              "name": "Camilla cuádriceps",
+              "key": "camilla-cuadriceps",
+              "prescription": "4 x 15.",
+              "page": 2,
+              "rest": null
+            },
+            {
+              "id": "sesion-2",
+              "name": "Camilla femoral",
+              "key": "camilla-femoral",
+              "prescription": "4 x 15.",
+              "page": 2,
+              "rest": null
+            },
+            {
+              "id": "sesion-3",
+              "name": "Dorsalera alta al pecho",
+              "key": "dorsalera-alta-al-pecho",
+              "prescription": "4 x 15.",
+              "page": 2,
+              "rest": null
+            },
+            {
+              "id": "sesion-4",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4 x 15.",
+              "page": 2,
+              "rest": null
+            },
+            {
+              "id": "sesion-5",
+              "name": "Alternado Curl de bíceps",
+              "key": "alternado-curl-de-biceps",
+              "prescription": "4 x 15.",
+              "page": 2,
+              "rest": null
+            },
+            {
+              "id": "sesion-6",
+              "name": "Polea con soga para tríceps",
+              "key": "polea-con-soga-para-triceps",
+              "prescription": "4 x 15.",
+              "page": 2,
+              "rest": null
+            },
+            {
+              "id": "sesion-7",
+              "name": "Elevación de piernas en colchoneta",
+              "key": "elevacion-de-piernas-en-colchoneta",
+              "prescription": "4 x 20.",
+              "page": 2,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-masculina-1",
+      "title": "Rutina masculina 1",
+      "category": "masculina",
+      "page": 3,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps, pecho, hombros y tríceps",
+          "page": 3,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Sentadillas en Smith",
+              "key": "sentadillas-en-smith",
+              "prescription": "4 x 15",
+              "page": 3,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Camilla de cuádriceps",
+              "key": "camilla-de-cuadriceps",
+              "prescription": "4 x 12",
+              "page": 3,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Press inclinado en maquina",
+              "key": "press-inclinado-en-maquina",
+              "prescription": "4 x 12",
+              "page": 3,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Apertura inclinada",
+              "key": "apertura-inclinada",
+              "prescription": "4 x 12",
+              "page": 3,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Press con mancuernas",
+              "key": "press-con-mancuernas",
+              "prescription": "4 x 12",
+              "page": 3,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4 x 12",
+              "page": 3,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Tríceps con soga",
+              "key": "triceps-con-soga",
+              "prescription": "4 x 12",
+              "page": 3,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Fondos para tríceps",
+              "key": "fondos-para-triceps",
+              "prescription": "4 x 15",
+              "page": 3,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "femorales, espalda, hombros y bíceps",
+          "page": 4,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Femorales con mancuernas",
+              "key": "femorales-con-mancuernas",
+              "prescription": "4 x 15",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Pantorrillas sentado",
+              "key": "pantorrillas-sentado",
+              "prescription": "4 x 12",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Dorsalera alta al pecho",
+              "key": "dorsalera-alta-al-pecho",
+              "prescription": "4 x 15",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Remo con mancuernas",
+              "key": "remo-con-mancuernas",
+              "prescription": "4 x 15",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Vuelo frontal con barra",
+              "key": "vuelo-frontal-con-barra",
+              "prescription": "4 x 15",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Posteriores con mancuernas",
+              "key": "posteriores-con-mancuernas",
+              "prescription": "4 x 12",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Curl parado",
+              "key": "curl-parado",
+              "prescription": "4 x 12",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-8",
+              "name": "Alternado martillo",
+              "key": "alternado-martillo",
+              "prescription": "4 x 15",
+              "page": 4,
+              "rest": null
+            },
+            {
+              "id": "dia-2-9",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 4,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-femenina-1",
+      "title": "Rutina femenina 1",
+      "category": "femenina",
+      "page": 5,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps, aductores, pantorrillas, pecho, hombros y tríceps",
+          "page": 5,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Sentadillas en máquina",
+              "key": "sentadillas-en-maquina",
+              "prescription": "4 x 20",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Prensa 45",
+              "key": "prensa-45",
+              "prescription": "4 x 15",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Camilla de cuádriceps",
+              "key": "camilla-de-cuadriceps",
+              "prescription": "4 x 12",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Sumo con disco",
+              "key": "sumo-con-disco",
+              "prescription": "4 x 20",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Pantorrilla parada",
+              "key": "pantorrilla-parada",
+              "prescription": "4 x 25",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Press banco plano",
+              "key": "press-banco-plano",
+              "prescription": "4 x15",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4 x15",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Fondos para tríceps",
+              "key": "fondos-para-triceps",
+              "prescription": "4 x12",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-9",
+              "name": "Abdominales en colchoneta",
+              "key": "abdominales-en-colchoneta",
+              "prescription": "4 x 20",
+              "page": 5,
+              "rest": null
+            },
+            {
+              "id": "dia-1-10",
+              "name": "Twister",
+              "key": "twister",
+              "prescription": "4 x 60",
+              "page": 5,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "femorales, glúteos, abductores, espalda, hombros y bíceps",
+          "page": 6,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Prensa 45\" para femorales",
+              "key": "prensa-45-para-femorales",
+              "prescription": "4 x 20",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Camilla para femorales",
+              "key": "camilla-para-femorales",
+              "prescription": "4 x 15",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Estocadas en máquina",
+              "key": "estocadas-en-maquina",
+              "prescription": "4 x 12",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Patada de glúteos en maquina",
+              "key": "patada-de-gluteos-en-maquina",
+              "prescription": "4 x 20",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Abductores en con tobillera",
+              "key": "abductores-en-con-tobillera",
+              "prescription": "4 x 20",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Tirones a la nuca",
+              "key": "tirones-a-la-nuca",
+              "prescription": "4 x 15",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Vuelos frontales con barra",
+              "key": "vuelos-frontales-con-barra",
+              "prescription": "4 x 10",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-8",
+              "name": "Alternado con martillo",
+              "key": "alternado-con-martillo",
+              "prescription": "4 x 15",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-9",
+              "name": "Elevación de piernas en colchoneta",
+              "key": "elevacion-de-piernas-en-colchoneta",
+              "prescription": "4 x 25",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-10",
+              "name": "Oblicuos con mancuernas",
+              "key": "oblicuos-con-mancuernas",
+              "prescription": "4 x 50",
+              "page": 6,
+              "rest": null
+            },
+            {
+              "id": "dia-2-11",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 6,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-masculina-2",
+      "title": "Rutina masculina 2",
+      "category": "masculina",
+      "page": 7,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps, pecho, hombros y tríceps",
+          "page": 7,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Sentadillas en Smith",
+              "key": "sentadillas-en-smith",
+              "prescription": "5 x 12",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Camilla de cuádriceps",
+              "key": "camilla-de-cuadriceps",
+              "prescription": "4x12.",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Pantorrillas sentado",
+              "key": "pantorrillas-sentado",
+              "prescription": "4 x 25",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Press inclinado en maquina",
+              "key": "press-inclinado-en-maquina",
+              "prescription": "4 x 12",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Press plano con mancuernas",
+              "key": "press-plano-con-mancuernas",
+              "prescription": "4 x 12",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Peck Deck",
+              "key": "peck-deck",
+              "prescription": "4 x 15",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Press en máquina para hombros",
+              "key": "press-en-maquina-para-hombros",
+              "prescription": "15-12-2x10",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4 x 12",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-9",
+              "name": "Vuelos frontales",
+              "key": "vuelos-frontales",
+              "prescription": "4 x 12",
+              "page": 7,
+              "rest": null
+            },
+            {
+              "id": "dia-1-10",
+              "name": "Tríceps con polea",
+              "key": "triceps-con-polea",
+              "prescription": "4 x 12",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-1-11",
+              "name": "Copa",
+              "key": "copa",
+              "prescription": "4x15.",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-1-12",
+              "name": "Fondos para tríceps",
+              "key": "fondos-para-triceps",
+              "prescription": "4x15.",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-1-13",
+              "name": "Abdominales: Cortos en colchoneta",
+              "key": "abdominales-cortos-en-colchoneta",
+              "prescription": "4 x 30.",
+              "page": 8,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "femorales, espalda, hombros y bíceps",
+          "page": 8,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Camilla para isquiotibiales",
+              "key": "camilla-para-isquiotibiales",
+              "prescription": "4 x 12",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Femorales con mancuernas",
+              "key": "femorales-con-mancuernas",
+              "prescription": "4 x 15",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Pantorrillas parada",
+              "key": "pantorrillas-parada",
+              "prescription": "4 x 25.",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Dorsalera alta a la nuca",
+              "key": "dorsalera-alta-a-la-nuca",
+              "prescription": "4 x 12",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Dorsalera alta al pecho",
+              "key": "dorsalera-alta-al-pecho",
+              "prescription": "4 x 12",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Remo polea baja",
+              "key": "remo-polea-baja",
+              "prescription": "4 x 15",
+              "page": 8,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Remo al mentón",
+              "key": "remo-al-menton",
+              "prescription": "4 x 12",
+              "page": 9,
+              "rest": null
+            },
+            {
+              "id": "dia-2-8",
+              "name": "Posteriores con mancuernas",
+              "key": "posteriores-con-mancuernas",
+              "prescription": "4 x 15",
+              "page": 9,
+              "rest": null
+            },
+            {
+              "id": "dia-2-9",
+              "name": "Encogimientos",
+              "key": "encogimientos",
+              "prescription": "4 x 20",
+              "page": 9,
+              "rest": null
+            },
+            {
+              "id": "dia-2-10",
+              "name": "Alternado con mancuernas",
+              "key": "alternado-con-mancuernas",
+              "prescription": "4 x 12",
+              "page": 9,
+              "rest": null
+            },
+            {
+              "id": "dia-2-11",
+              "name": "Curl parado",
+              "key": "curl-parado",
+              "prescription": "4 x 12",
+              "page": 9,
+              "rest": null
+            },
+            {
+              "id": "dia-2-12",
+              "name": "Alternado martillo",
+              "key": "alternado-martillo",
+              "prescription": "4 x 15",
+              "page": 9,
+              "rest": null
+            },
+            {
+              "id": "dia-2-13",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 9,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-femenina-2",
+      "title": "Rutina femenina 2",
+      "category": "femenina",
+      "page": 10,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps, aductores, pecho y tríceps",
+          "page": 10,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Sentadillas",
+              "key": "sentadillas",
+              "prescription": "4x15",
+              "page": 10,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Prensa 45\"",
+              "key": "prensa-45",
+              "prescription": "4x20",
+              "page": 10,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Hack rotativa",
+              "key": "hack-rotativa",
+              "prescription": "4x15",
+              "page": 10,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Camilla de cuádriceps",
+              "key": "camilla-de-cuadriceps",
+              "prescription": "4x30",
+              "page": 10,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Aductores en sillón",
+              "key": "aductores-en-sillon",
+              "prescription": "4x15",
+              "page": 10,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Peck Deck",
+              "key": "peck-deck",
+              "prescription": "4x12",
+              "page": 10,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Polea para tríceps",
+              "key": "polea-para-triceps",
+              "prescription": "4x12",
+              "page": 10,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Abdominales en banco + Oblicuos con mancuernas",
+              "key": "abdominales-en-banco-oblicuos-con-mancuernas",
+              "prescription": "4x20+60",
+              "page": 10,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "femorales, pantorrillas, espalda y bíceps",
+          "page": 11,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Femorales con mancuernas",
+              "key": "femorales-con-mancuernas",
+              "prescription": "4x15",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Prensa 45\" para femorales",
+              "key": "prensa-45-para-femorales",
+              "prescription": "4x20",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Camilla para femorales",
+              "key": "camilla-para-femorales",
+              "prescription": "4x15",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Pantorrillas sentada",
+              "key": "pantorrillas-sentada",
+              "prescription": "4x20",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Agarre invertido al pecho en dorsalera",
+              "key": "agarre-invertido-al-pecho-en-dorsalera",
+              "prescription": "4x12",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Curl parado con barra",
+              "key": "curl-parado-con-barra",
+              "prescription": "4x15",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Espinales en colchoneta + Twister",
+              "key": "espinales-en-colchoneta-twister",
+              "prescription": "4x30+60",
+              "page": 11,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "glúteos, abductores y hombros",
+          "page": 11,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Patada de glúteos en máquina",
+              "key": "patada-de-gluteos-en-maquina",
+              "prescription": "4x20",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Elevación de pelvis con MAQUINA",
+              "key": "elevacion-de-pelvis-con-maquina",
+              "prescription": "4x30",
+              "page": 11,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Elevación de piernas para glúteos",
+              "key": "elevacion-de-piernas-para-gluteos",
+              "prescription": "4x15",
+              "page": 12,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Contracción de glúteo superior en polea",
+              "key": "contraccion-de-gluteo-superior-en-polea",
+              "prescription": "4x20",
+              "page": 12,
+              "rest": null
+            },
+            {
+              "id": "dia-3-5",
+              "name": "Abductores en sillón",
+              "key": "abductores-en-sillon",
+              "prescription": "4x30",
+              "page": 12,
+              "rest": null
+            },
+            {
+              "id": "dia-3-6",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4x15",
+              "page": 12,
+              "rest": null
+            },
+            {
+              "id": "dia-3-7",
+              "name": "Vuelos frontales",
+              "key": "vuelos-frontales",
+              "prescription": "4x15",
+              "page": 12,
+              "rest": null
+            },
+            {
+              "id": "dia-3-8",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 12,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-masculina-3",
+      "title": "Rutina masculina 3",
+      "category": "masculina",
+      "page": 13,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "pecho, hombros y tríceps",
+          "page": 13,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Press inclinado con barra",
+              "key": "press-inclinado-con-barra",
+              "prescription": "4 x 12",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Apertura inclinada",
+              "key": "apertura-inclinada",
+              "prescription": "4 x 15",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Press plano con mancuernas",
+              "key": "press-plano-con-mancuernas",
+              "prescription": "4 x 12",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Apertura plana",
+              "key": "apertura-plana",
+              "prescription": "4 x 15",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4 x 12",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Vuelos frontales",
+              "key": "vuelos-frontales",
+              "prescription": "4 x 12",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Tríceps con polea",
+              "key": "triceps-con-polea",
+              "prescription": "4 x 12",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Fondos para tríceps",
+              "key": "fondos-para-triceps",
+              "prescription": "4 x 15",
+              "page": 13,
+              "rest": null
+            },
+            {
+              "id": "dia-1-9",
+              "name": "Abdominales",
+              "key": "abdominales",
+              "prescription": "Cortitos en colchoneta 4x30 + En banco 4x20",
+              "page": 14,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "espalda, hombros y bíceps",
+          "page": 14,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Dorsalera alta a la nuca",
+              "key": "dorsalera-alta-a-la-nuca",
+              "prescription": "4 x 12",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Dorsalera alta al pecho",
+              "key": "dorsalera-alta-al-pecho",
+              "prescription": "4 x 12",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Triangulo al pecho",
+              "key": "triangulo-al-pecho",
+              "prescription": "5 x 10",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Remo polea baja",
+              "key": "remo-polea-baja",
+              "prescription": "4 x 15",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Remo al mentón",
+              "key": "remo-al-menton",
+              "prescription": "4 x 12",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Posteriores con mancuernas",
+              "key": "posteriores-con-mancuernas",
+              "prescription": "4 x 15",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Alternado con mancuernas",
+              "key": "alternado-con-mancuernas",
+              "prescription": "4 x 12",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-2-8",
+              "name": "Banco Scott a un brazo",
+              "key": "banco-scott-a-un-brazo",
+              "prescription": "4 x 15",
+              "page": 14,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "cuádriceps, femorales y pantorrillas",
+          "page": 14,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Sentadillas en Smith",
+              "key": "sentadillas-en-smith",
+              "prescription": "4 x 15",
+              "page": 14,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Prensa 45º",
+              "key": "prensa-45o",
+              "prescription": "4 x 20",
+              "page": 15,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Camilla de cuádriceps",
+              "key": "camilla-de-cuadriceps",
+              "prescription": "5 x 12",
+              "page": 15,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Peso muerto",
+              "key": "peso-muerto",
+              "prescription": "4 x 15",
+              "page": 15,
+              "rest": null
+            },
+            {
+              "id": "dia-3-5",
+              "name": "Camilla de femorales",
+              "key": "camilla-de-femorales",
+              "prescription": "4 x 12",
+              "page": 15,
+              "rest": null
+            },
+            {
+              "id": "dia-3-6",
+              "name": "Pantorrillas sentado",
+              "key": "pantorrillas-sentado",
+              "prescription": "4 x 20",
+              "page": 15,
+              "rest": null
+            },
+            {
+              "id": "dia-3-7",
+              "name": "Pantorrillas parado",
+              "key": "pantorrillas-parado",
+              "prescription": "4 x 20",
+              "page": 15,
+              "rest": null
+            },
+            {
+              "id": "dia-3-8",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 15,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-femenina-3",
+      "title": "Rutina femenina 3",
+      "category": "femenina",
+      "page": 16,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "femorales, espalda y pecho",
+          "page": 16,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Sentadilla en maquina",
+              "key": "sentadilla-en-maquina",
+              "prescription": "20-15-12-10.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Hack rotativa",
+              "key": "hack-rotativa",
+              "prescription": "2 x 12-2 x 10.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Femorales con mancuernas",
+              "key": "femorales-con-mancuernas",
+              "prescription": "4 x 15.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Elevación de pelvis",
+              "key": "elevacion-de-pelvis",
+              "prescription": "4 x 20.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Pantorrilla parada",
+              "key": "pantorrilla-parada",
+              "prescription": "4 x 20.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Triangulo al pecho",
+              "key": "triangulo-al-pecho",
+              "prescription": "3 x 15.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Hiperextensiones",
+              "key": "hiperextensiones",
+              "prescription": "4 x 12.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Mariposa",
+              "key": "mariposa",
+              "prescription": "4 x 12.",
+              "page": 16,
+              "rest": null
+            },
+            {
+              "id": "dia-1-9",
+              "name": "Pullover",
+              "key": "pullover",
+              "prescription": "4 x 12.",
+              "page": 16,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "glúteos y hombros",
+          "page": 17,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Prensa 45° pies juntos",
+              "key": "prensa-45-pies-juntos",
+              "prescription": "2 x 15-2 x 12.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Patada con polea baja",
+              "key": "patada-con-polea-baja",
+              "prescription": "2 x 15-2 x12.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Estocadas",
+              "key": "estocadas",
+              "prescription": "4 x 12.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Abductores y aductores",
+              "key": "abductores-y-aductores",
+              "prescription": "3 x 15.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Press con mancuerna para hombros",
+              "key": "press-con-mancuerna-para-hombros",
+              "prescription": "3 x 15.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "3 x 15.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Elevación frontal con barra",
+              "key": "elevacion-frontal-con-barra",
+              "prescription": "3 x 15.",
+              "page": 17,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "cuádriceps , femorales y brazos",
+          "page": 17,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Extensiones en camilla",
+              "key": "extensiones-en-camilla",
+              "prescription": "20-15-12-10.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Prensa 45°",
+              "key": "prensa-45",
+              "prescription": "2 x 15-2 x 10.",
+              "page": 17,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Flexiones en camilla",
+              "key": "flexiones-en-camilla",
+              "prescription": "2 x15-2 x 10.",
+              "page": 18,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Patada de glúteos en maquina",
+              "key": "patada-de-gluteos-en-maquina",
+              "prescription": "20-15-12-10.",
+              "page": 18,
+              "rest": null
+            },
+            {
+              "id": "dia-3-5",
+              "name": "Pantorrilla sentada",
+              "key": "pantorrilla-sentada",
+              "prescription": "4 x 15.",
+              "page": 18,
+              "rest": null
+            },
+            {
+              "id": "dia-3-6",
+              "name": "Bíceps con barra",
+              "key": "biceps-con-barra",
+              "prescription": "3 x 15",
+              "page": 18,
+              "rest": null
+            },
+            {
+              "id": "dia-3-7",
+              "name": "Concentrado",
+              "key": "concentrado",
+              "prescription": "3 x 15.",
+              "page": 18,
+              "rest": null
+            },
+            {
+              "id": "dia-3-8",
+              "name": "Patada atrás (tríceps)",
+              "key": "patada-atras-triceps",
+              "prescription": "3 x 15.",
+              "page": 18,
+              "rest": null
+            },
+            {
+              "id": "dia-3-9",
+              "name": "Extensiones con polea",
+              "key": "extensiones-con-polea",
+              "prescription": "3 x 15.",
+              "page": 18,
+              "rest": null
+            },
+            {
+              "id": "dia-3-10",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 18,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-masculina-4",
+      "title": "Rutina masculina 4",
+      "category": "masculina",
+      "page": 19,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "pecho y hombros",
+          "page": 19,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Peck deck",
+              "key": "peck-deck",
+              "prescription": "1 x 20-3 x 12.",
+              "page": 19,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Plano con mancuerna",
+              "key": "plano-con-mancuerna",
+              "prescription": "15 – 12 – 10 - 8.",
+              "page": 19,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Inclinado con barra",
+              "key": "inclinado-con-barra",
+              "prescription": "15 – 12 – 10 – 8.",
+              "page": 19,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Apertura declinada + pullover",
+              "key": "apertura-declinada-pullover",
+              "prescription": "3 x 10 + 10.",
+              "page": 19,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Frontales + vuelos laterales",
+              "key": "frontales-vuelos-laterales",
+              "prescription": "1 x 20-3 x 10.",
+              "page": 19,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Press frontal con guía",
+              "key": "press-frontal-con-guia",
+              "prescription": "2 x 15 – 2 x 12.",
+              "page": 19,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "espalda y hombros",
+          "page": 19,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Remo a caballo invertido",
+              "key": "remo-a-caballo-invertido",
+              "prescription": "20-15-12-10-8-6.",
+              "page": 19,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Remo con mancuerna",
+              "key": "remo-con-mancuerna",
+              "prescription": "3 x 8.",
+              "page": 19,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Tirones al pecho (con triangulo)",
+              "key": "tirones-al-pecho-con-triangulo",
+              "prescription": "12-10-8-6.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Remo polea baja",
+              "key": "remo-polea-baja",
+              "prescription": "2 x 15 – 2 x 12.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Vuelos posteriores",
+              "key": "vuelos-posteriores",
+              "prescription": "20-15-12-10.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Encogimiento con barra",
+              "key": "encogimiento-con-barra",
+              "prescription": "2 x 12-2 x 8-2 x 6.",
+              "page": 20,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "piernas y hombros",
+          "page": 20,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Sentadillas",
+              "key": "sentadillas",
+              "prescription": "20-15-12-10-8.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Prensa 90\"",
+              "key": "prensa-90",
+              "prescription": "3 x 12.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Femorales en camilla",
+              "key": "femorales-en-camilla",
+              "prescription": "20-18-15-12-10.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Femorales con barra",
+              "key": "femorales-con-barra",
+              "prescription": "3 x 10.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-3-5",
+              "name": "Press con maquina",
+              "key": "press-con-maquina",
+              "prescription": "2 x 15 – 2 x 12.",
+              "page": 20,
+              "rest": null
+            },
+            {
+              "id": "dia-3-6",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "20 – 15 – 12 - 10.",
+              "page": 20,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-4",
+          "number": 4,
+          "title": "brazos",
+          "page": 20,
+          "exercises": [
+            {
+              "id": "dia-4-1",
+              "name": "Bíceps con romana",
+              "key": "biceps-con-romana",
+              "prescription": "20-15-12-10-8.",
+              "page": 21,
+              "rest": null
+            },
+            {
+              "id": "dia-4-2",
+              "name": "Tríceps con mancuerna parrado",
+              "key": "triceps-con-mancuerna-parrado",
+              "prescription": "20-15-10-8.",
+              "page": 21,
+              "rest": null
+            },
+            {
+              "id": "dia-4-3",
+              "name": "Bíceps en maquina Scott",
+              "key": "biceps-en-maquina-scott",
+              "prescription": "12-10-8-6-20.",
+              "page": 21,
+              "rest": null
+            },
+            {
+              "id": "dia-4-4",
+              "name": "Tríceps flexiones en banco",
+              "key": "triceps-flexiones-en-banco",
+              "prescription": "12-10-8-6-20.",
+              "page": 21,
+              "rest": null
+            },
+            {
+              "id": "dia-4-5",
+              "name": "Alternado con mancuerna + tríceps en polea",
+              "key": "alternado-con-mancuerna-triceps-en-polea",
+              "prescription": "3 (15 + 15).",
+              "page": 21,
+              "rest": null
+            },
+            {
+              "id": "dia-4-6",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 21,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-femenina-4",
+      "title": "Rutina femenina 4",
+      "category": "femenina",
+      "page": 22,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps, espalda, pecho",
+          "page": 22,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Prensa 45° + extensiones en camilla",
+              "key": "prensa-45-extensiones-en-camilla",
+              "prescription": "2 x 15 - 2 x 12.",
+              "page": 22,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Estocadas c/mancuernas y step",
+              "key": "estocadas-c-mancuernas-y-step",
+              "prescription": "15-12-10.",
+              "page": 22,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Remo hammer",
+              "key": "remo-hammer",
+              "prescription": "2 x 15 - 2 x 10.",
+              "page": 22,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Remo a 1 brazo c/mancuerna",
+              "key": "remo-a-1-brazo-c-mancuerna",
+              "prescription": "3 x 15 s/descanso.",
+              "page": 22,
+              "rest": "Sin descanso, según la planilla"
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Press inclinado c/barra",
+              "key": "press-inclinado-c-barra",
+              "prescription": "20-15-12-10.",
+              "page": 22,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Apertura inclinada + peck deck",
+              "key": "apertura-inclinada-peck-deck",
+              "prescription": "3 x 15 + 15.",
+              "page": 22,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Patada c/polea baja",
+              "key": "patada-c-polea-baja",
+              "prescription": "2 x 20-2 x15.",
+              "page": 22,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "femorales, abductores y hombros",
+          "page": 22,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Peso muerto + flexiones en camilla",
+              "key": "peso-muerto-flexiones-en-camilla",
+              "prescription": "2 x 15- 2 x 12.",
+              "page": 22,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Abductores y aductores c/multicaderas",
+              "key": "abductores-y-aductores-c-multicaderas",
+              "prescription": "3 x 25 c/u.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Elevación de pelvis c/rebote",
+              "key": "elevacion-de-pelvis-c-rebote",
+              "prescription": "4 x 12.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Press c/mancuernas + vuelos laterales",
+              "key": "press-c-mancuernas-vuelos-laterales",
+              "prescription": "2 x 20 - 2 x 15.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Elevación frontal c/ barra",
+              "key": "elevacion-frontal-c-barra",
+              "prescription": "3 x 20.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Posteriores",
+              "key": "posteriores",
+              "prescription": "3 x 15.",
+              "page": 23,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "glúteos, pantorrillas y brazos",
+          "page": 23,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Sentadilla libre",
+              "key": "sentadilla-libre",
+              "prescription": "20-15-12-10-8.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Prensa 90°",
+              "key": "prensa-90",
+              "prescription": "2 x 20 - 2 x15.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Pantorrilla parada",
+              "key": "pantorrilla-parada",
+              "prescription": "4 x 25.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Pantorrilla prensa 45°",
+              "key": "pantorrilla-prensa-45",
+              "prescription": "3 x 20.",
+              "page": 23,
+              "rest": null
+            },
+            {
+              "id": "dia-3-5",
+              "name": "Patada c/maquina",
+              "key": "patada-c-maquina",
+              "prescription": "1 x 20 - 3 x 10 + 10 (bajando el peso).",
+              "page": 24,
+              "rest": null
+            },
+            {
+              "id": "dia-3-6",
+              "name": "Biceps y triceps (Scott c/maquina)",
+              "key": "biceps-y-triceps-scott-c-maquina",
+              "prescription": "2 x 20 - 2 x 15 - 12 + fondos invertidos",
+              "page": 24,
+              "rest": null
+            },
+            {
+              "id": "dia-3-7",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 24,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-masculina-5",
+      "title": "Rutina masculina 5",
+      "category": "masculina",
+      "page": 25,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps, pecho, hombros y tríceps",
+          "page": 25,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Sentadillas en Smith",
+              "key": "sentadillas-en-smith",
+              "prescription": "4 x 15",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Camilla de cuádriceps",
+              "key": "camilla-de-cuadriceps",
+              "prescription": "4 x 12",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Press inclinado en maquina",
+              "key": "press-inclinado-en-maquina",
+              "prescription": "4 x 12",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Apertura inclinada",
+              "key": "apertura-inclinada",
+              "prescription": "4 x 12",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Press con mancuernas",
+              "key": "press-con-mancuernas",
+              "prescription": "4 x 12",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4 x 12",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Tríceps con soga",
+              "key": "triceps-con-soga",
+              "prescription": "4 x 12",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Fondos para tríceps",
+              "key": "fondos-para-triceps",
+              "prescription": "4 x 15",
+              "page": 25,
+              "rest": null
+            },
+            {
+              "id": "dia-1-9",
+              "name": "Abdominales",
+              "key": "abdominales",
+              "prescription": "Cortitos en colchoneta 4x30 + En banco 4x20",
+              "page": 25,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "femorales, espalda, hombros y bíceps",
+          "page": 26,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Femorales con mancuernas",
+              "key": "femorales-con-mancuernas",
+              "prescription": "4 x 15",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Pantorrillas sentado",
+              "key": "pantorrillas-sentado",
+              "prescription": "4 x 12.",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Dorsalera alta al pecho",
+              "key": "dorsalera-alta-al-pecho",
+              "prescription": "4 x 15.",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Remo con mancuernas",
+              "key": "remo-con-mancuernas",
+              "prescription": "4 x 15.",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Vuelo frontal con barra",
+              "key": "vuelo-frontal-con-barra",
+              "prescription": "4 x 15.",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Posteriores con mancuernas",
+              "key": "posteriores-con-mancuernas",
+              "prescription": "4 x 15.",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Curl parado",
+              "key": "curl-parado",
+              "prescription": "4 x 12.",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-8",
+              "name": "Alternado martillo",
+              "key": "alternado-martillo",
+              "prescription": "4 x 15.",
+              "page": 26,
+              "rest": null
+            },
+            {
+              "id": "dia-2-9",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15.",
+              "page": 26,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-femenina-5",
+      "title": "Rutina femenina 5",
+      "category": "femenina",
+      "page": 27,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps y hombros",
+          "page": 27,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Sentadilla c/guía (abierto y cerrado)",
+              "key": "sentadilla-c-guia-abierto-y-cerrado",
+              "prescription": "1X20 - 3X10 + 10",
+              "page": 27,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Prensa 45° (abierto y cerrado)",
+              "key": "prensa-45-abierto-y-cerrado",
+              "prescription": "3 * 10 + 10",
+              "page": 27,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Extensiones en camilla",
+              "key": "extensiones-en-camilla",
+              "prescription": "20 + 15 + 12 + 10",
+              "page": 27,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Pantorrilla en prensa",
+              "key": "pantorrilla-en-prensa",
+              "prescription": "4 x 20.",
+              "page": 27,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Posterior + press c/mancuernas",
+              "key": "posterior-press-c-mancuernas",
+              "prescription": "4(10 + 10)",
+              "page": 27,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Vuelos laterales + remo al mentón",
+              "key": "vuelos-laterales-remo-al-menton",
+              "prescription": "4(10 + 10)",
+              "page": 27,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "glúteos, pecho y tríceps",
+          "page": 27,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Glúteos en polea baja",
+              "key": "gluteos-en-polea-baja",
+              "prescription": "20-15-12-10.",
+              "page": 27,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Patada en maquina",
+              "key": "patada-en-maquina",
+              "prescription": "20-15-12-10.",
+              "page": 27,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Estocadas atrás en maquina",
+              "key": "estocadas-atras-en-maquina",
+              "prescription": "4 x 12.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Abductores y aductores c/maquina",
+              "key": "abductores-y-aductores-c-maquina",
+              "prescription": "4 x 15.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Apertura inclinada",
+              "key": "apertura-inclinada",
+              "prescription": "4 x 15.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Press inclinado + peck deck",
+              "key": "press-inclinado-peck-deck",
+              "prescription": "4 x 15.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Francés con barra",
+              "key": "frances-con-barra",
+              "prescription": "20-15-12-10.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-2-8",
+              "name": "Patada atrás con mancuernas parado",
+              "key": "patada-atras-con-mancuernas-parado",
+              "prescription": "3 x 12.",
+              "page": 28,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "femorales, espalda y bíceps",
+          "page": 28,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Femorales en polea",
+              "key": "femorales-en-polea",
+              "prescription": "3 x 12.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Femorales en camilla",
+              "key": "femorales-en-camilla",
+              "prescription": "20-15-12-10.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Peso muerto con mancuernas",
+              "key": "peso-muerto-con-mancuernas",
+              "prescription": "3 x 10.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Dorsalera alta",
+              "key": "dorsalera-alta",
+              "prescription": "4 x 15.",
+              "page": 28,
+              "rest": null
+            },
+            {
+              "id": "dia-3-5",
+              "name": "Dorsalera baja",
+              "key": "dorsalera-baja",
+              "prescription": "4 x 15.",
+              "page": 29,
+              "rest": null
+            },
+            {
+              "id": "dia-3-6",
+              "name": "Scott con mancuernas (bíceps)",
+              "key": "scott-con-mancuernas-biceps",
+              "prescription": "20-15-12-10.",
+              "page": 29,
+              "rest": null
+            },
+            {
+              "id": "dia-3-7",
+              "name": "Alternado martillo",
+              "key": "alternado-martillo",
+              "prescription": "4 x 12.",
+              "page": 29,
+              "rest": null
+            },
+            {
+              "id": "dia-3-8",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 29,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-masculina-6",
+      "title": "Rutina masculina 6",
+      "category": "masculina",
+      "page": 30,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "hombros y femorales",
+          "page": 30,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Press c/barra",
+              "key": "press-c-barra",
+              "prescription": "15 – 12 – 10 - 8",
+              "page": 30,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Posteriores c/polea",
+              "key": "posteriores-c-polea",
+              "prescription": "3 x 12.",
+              "page": 30,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Laterales a 1 mano",
+              "key": "laterales-a-1-mano",
+              "prescription": "4 x 15.",
+              "page": 30,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Frontales c/mancuerna",
+              "key": "frontales-c-mancuerna",
+              "prescription": "3 x 12.",
+              "page": 30,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Remo al mentón",
+              "key": "remo-al-menton",
+              "prescription": "1 x 20 - 2 x 8.",
+              "page": 30,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Femorales en camilla",
+              "key": "femorales-en-camilla",
+              "prescription": "20 – 15 – 12 – 10 – 8 – 6.",
+              "page": 30,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Femorales con barra",
+              "key": "femorales-con-barra",
+              "prescription": "2 x 15 - 2 x 12.",
+              "page": 30,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "brazos",
+          "page": 30,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Bíceps c/romano en Scott",
+              "key": "biceps-c-romano-en-scott",
+              "prescription": "20-15-12-10.",
+              "page": 30,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Concentrado c/mancuerna",
+              "key": "concentrado-c-mancuerna",
+              "prescription": "4 x 8.",
+              "page": 31,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Francés parado c/ polea",
+              "key": "frances-parado-c-polea",
+              "prescription": "15-12-10-8.",
+              "page": 31,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Flexiones en banco",
+              "key": "flexiones-en-banco",
+              "prescription": "15-12-10-8.",
+              "page": 31,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Bíceps c/barra parado + tríceps polea",
+              "key": "biceps-c-barra-parado-triceps-polea",
+              "prescription": "3(12 + 12)",
+              "page": 31,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Pantorrilla c/prensa",
+              "key": "pantorrilla-c-prensa",
+              "prescription": "4 x 20.",
+              "page": 31,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "piernas",
+          "page": 31,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Prensa 45°",
+              "key": "prensa-45",
+              "prescription": "15 – 12 – 10 - 8.",
+              "page": 31,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Hack",
+              "key": "hack",
+              "prescription": "20 – 15 – 12 – 10 – 8 – 6.",
+              "page": 31,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Camilla de cuádriceps",
+              "key": "camilla-de-cuadriceps",
+              "prescription": "2 x 15 – 2 x 12.",
+              "page": 31,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Femorales en camilla",
+              "key": "femorales-en-camilla",
+              "prescription": "2 x 15 – 2 x 12.",
+              "page": 31,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-4",
+          "number": 4,
+          "title": "pecho",
+          "page": 32,
+          "exercises": [
+            {
+              "id": "dia-4-1",
+              "name": "Apertura declinada",
+              "key": "apertura-declinada",
+              "prescription": "1 x 30 - 2 x 12- 2 x 8.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-4-2",
+              "name": "Inclinado c maquina",
+              "key": "inclinado-c-maquina",
+              "prescription": "15 – 12 – 10 - 8.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-4-3",
+              "name": "Peck deck",
+              "key": "peck-deck",
+              "prescription": "3 x 15.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-4-4",
+              "name": "Press plano c/ mancuerna",
+              "key": "press-plano-c-mancuerna",
+              "prescription": "15 – 12 – 10 - 8.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-4-5",
+              "name": "Pullover",
+              "key": "pullover",
+              "prescription": "3 x 10.",
+              "page": 32,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-5",
+          "number": 5,
+          "title": "espalda, femorales y pantorrillas",
+          "page": 32,
+          "exercises": [
+            {
+              "id": "dia-5-1",
+              "name": "Remo polea baja. (agarre abierto)",
+              "key": "remo-polea-baja-agarre-abierto",
+              "prescription": "15 – 12 – 10 - 8.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-5-2",
+              "name": "Dominadas cerradas",
+              "key": "dominadas-cerradas",
+              "prescription": "3 x 12.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-5-3",
+              "name": "Remo c/mancuerna",
+              "key": "remo-c-mancuerna",
+              "prescription": "15 – 12 – 10 – 8.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-5-4",
+              "name": "Tirones a la nuca",
+              "key": "tirones-a-la-nuca",
+              "prescription": "2 x 15 – 2 x 12.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-5-5",
+              "name": "Peso muerto",
+              "key": "peso-muerto",
+              "prescription": "2 x 15 – 2 x 12.",
+              "page": 32,
+              "rest": null
+            },
+            {
+              "id": "dia-5-6",
+              "name": "Pantorrilla parado",
+              "key": "pantorrilla-parado",
+              "prescription": "6 x 20.",
+              "page": 33,
+              "rest": null
+            },
+            {
+              "id": "dia-5-7",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15.",
+              "page": 33,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-femenina-6",
+      "title": "Rutina femenina 6",
+      "category": "femenina",
+      "page": 34,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "cuádriceps, femorales y abductores",
+          "page": 34,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Prensa horizontal",
+              "key": "prensa-horizontal",
+              "prescription": "4 x 20.",
+              "page": 34,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Extensiones en camilla",
+              "key": "extensiones-en-camilla",
+              "prescription": "4 x 20.",
+              "page": 34,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Flexiones en camilla",
+              "key": "flexiones-en-camilla",
+              "prescription": "4 x 15.",
+              "page": 34,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Peso muerto",
+              "key": "peso-muerto",
+              "prescription": "4 x 15.",
+              "page": 34,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Patada en maquina (glúteos)",
+              "key": "patada-en-maquina-gluteos",
+              "prescription": "3 x 15.",
+              "page": 34,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Abductores en multicadera",
+              "key": "abductores-en-multicadera",
+              "prescription": "3 x 15.",
+              "page": 34,
+              "rest": null
+            },
+            {
+              "id": "dia-1-7",
+              "name": "Giro en disco",
+              "key": "giro-en-disco",
+              "prescription": "4 x 60.",
+              "page": 34,
+              "rest": null
+            },
+            {
+              "id": "dia-1-8",
+              "name": "Exprimida",
+              "key": "exprimida",
+              "prescription": "4 x 15.",
+              "page": 34,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "pecho, espalda, hombros y brazos",
+          "page": 35,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Apertura plana",
+              "key": "apertura-plana",
+              "prescription": "4 x 15.",
+              "page": 35,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Dorsales alta agarre invertido",
+              "key": "dorsales-alta-agarre-invertido",
+              "prescription": "3 x 10.",
+              "page": 35,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "4 x 10.",
+              "page": 35,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Bíceps c/ barra",
+              "key": "biceps-c-barra",
+              "prescription": "3 x 20.",
+              "page": 35,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Patada atrás (tríceps)",
+              "key": "patada-atras-triceps",
+              "prescription": "3 x 15.",
+              "page": 35,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Oblicuos con mancuernas",
+              "key": "oblicuos-con-mancuernas",
+              "prescription": "4 x 60.",
+              "page": 35,
+              "rest": null
+            },
+            {
+              "id": "dia-2-7",
+              "name": "Elevación de Hombro",
+              "key": "elevacion-de-hombro",
+              "prescription": "4 x 15.",
+              "page": 35,
+              "rest": null
+            },
+            {
+              "id": "dia-2-8",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15",
+              "page": 35,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rutina-masculina-7",
+      "title": "Rutina masculina 7",
+      "category": "masculina",
+      "page": 36,
+      "warmup": "10 minutos de escalador + 10 minutos de cinta + 10 minutos de bici.",
+      "days": [
+        {
+          "id": "dia-1",
+          "number": 1,
+          "title": "espalda y femorales",
+          "page": 36,
+          "exercises": [
+            {
+              "id": "dia-1-1",
+              "name": "Peso muerto",
+              "key": "peso-muerto",
+              "prescription": "20-15-12-10-8-6-4.",
+              "page": 36,
+              "rest": null
+            },
+            {
+              "id": "dia-1-2",
+              "name": "Dominadas abiertas",
+              "key": "dominadas-abiertas",
+              "prescription": "4 x 12.",
+              "page": 36,
+              "rest": null
+            },
+            {
+              "id": "dia-1-3",
+              "name": "Remo a 1 brazo c/guía",
+              "key": "remo-a-1-brazo-c-guia",
+              "prescription": "3 x 8- 1 x 15.",
+              "page": 36,
+              "rest": null
+            },
+            {
+              "id": "dia-1-4",
+              "name": "Tirones al pecho",
+              "key": "tirones-al-pecho",
+              "prescription": "10-8-6-(4-4-6-10).",
+              "page": 36,
+              "rest": null
+            },
+            {
+              "id": "dia-1-5",
+              "name": "Femorales en camilla",
+              "key": "femorales-en-camilla",
+              "prescription": "20-15-10-12-10-8-6.",
+              "page": 36,
+              "rest": null
+            },
+            {
+              "id": "dia-1-6",
+              "name": "Femorales con barra",
+              "key": "femorales-con-barra",
+              "prescription": "3 x 10.",
+              "page": 36,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-2",
+          "number": 2,
+          "title": "brazos y pantorrillas",
+          "page": 36,
+          "exercises": [
+            {
+              "id": "dia-2-1",
+              "name": "Bíceps c/polea sentado",
+              "key": "biceps-c-polea-sentado",
+              "prescription": "20-15-12-10-8-6.",
+              "page": 36,
+              "rest": null
+            },
+            {
+              "id": "dia-2-2",
+              "name": "Martillo sentado a dos manos",
+              "key": "martillo-sentado-a-dos-manos",
+              "prescription": "4 x 20.",
+              "page": 36,
+              "rest": null
+            },
+            {
+              "id": "dia-2-3",
+              "name": "Bíceps con barra Z (abierto y cerrado)",
+              "key": "biceps-con-barra-z-abierto-y-cerrado",
+              "prescription": "3(8 + 8)",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-2-4",
+              "name": "Acostado c/mancuerna cruzado (tríceps)",
+              "key": "acostado-c-mancuerna-cruzado-triceps",
+              "prescription": "20-12-10-10.",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-2-5",
+              "name": "Empuje",
+              "key": "empuje",
+              "prescription": "4 x 15.",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-2-6",
+              "name": "Pantorrillas sentado",
+              "key": "pantorrillas-sentado",
+              "prescription": "20-18-15-10-8- (10 + 10 + 10)",
+              "page": 37,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-3",
+          "number": 3,
+          "title": "piernas",
+          "page": 37,
+          "exercises": [
+            {
+              "id": "dia-3-1",
+              "name": "Sentadillas",
+              "key": "sentadillas",
+              "prescription": "20-15-12-10-8.",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-3-2",
+              "name": "Prensa 90°",
+              "key": "prensa-90",
+              "prescription": "12-10-8-6.",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-3-3",
+              "name": "Hack",
+              "key": "hack",
+              "prescription": "3 x (8 + 8 + 8)",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-3-4",
+              "name": "Camilla cuádriceps",
+              "key": "camilla-cuadriceps",
+              "prescription": "3 x 15.",
+              "page": 37,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-4",
+          "number": 4,
+          "title": "hombros",
+          "page": 37,
+          "exercises": [
+            {
+              "id": "dia-4-1",
+              "name": "Press c/mancuernas",
+              "key": "press-c-mancuernas",
+              "prescription": "20-15-12-10-8.",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-4-2",
+              "name": "Posteriores c/mancuernas",
+              "key": "posteriores-c-mancuernas",
+              "prescription": "15-10- (8 + 8 + 8)",
+              "page": 37,
+              "rest": null
+            },
+            {
+              "id": "dia-4-3",
+              "name": "Frontales + remo parado",
+              "key": "frontales-remo-parado",
+              "prescription": "3(10 + 10) alternando.",
+              "page": 38,
+              "rest": null
+            },
+            {
+              "id": "dia-4-4",
+              "name": "Vuelos laterales",
+              "key": "vuelos-laterales",
+              "prescription": "2 x 12- 1 x (15-10).",
+              "page": 38,
+              "rest": null
+            },
+            {
+              "id": "dia-4-5",
+              "name": "Encogimiento c/barra",
+              "key": "encogimiento-c-barra",
+              "prescription": "12-10-8-6-6.",
+              "page": 38,
+              "rest": null
+            }
+          ]
+        },
+        {
+          "id": "dia-5",
+          "number": 5,
+          "title": "pecho y pantorrilla",
+          "page": 38,
+          "exercises": [
+            {
+              "id": "dia-5-1",
+              "name": "Press plano c/barra",
+              "key": "press-plano-c-barra",
+              "prescription": "20-15-12-10-8-6.",
+              "page": 38,
+              "rest": null
+            },
+            {
+              "id": "dia-5-2",
+              "name": "Fondos en paralelas",
+              "key": "fondos-en-paralelas",
+              "prescription": "15-12-10-8-6.",
+              "page": 38,
+              "rest": null
+            },
+            {
+              "id": "dia-5-3",
+              "name": "Inclinado c/barra",
+              "key": "inclinado-c-barra",
+              "prescription": "3(10 + 10)",
+              "page": 38,
+              "rest": null
+            },
+            {
+              "id": "dia-5-4",
+              "name": "Apertura 30°",
+              "key": "apertura-30",
+              "prescription": "3 x (10+10).",
+              "page": 38,
+              "rest": null
+            },
+            {
+              "id": "dia-5-5",
+              "name": "Pantorrilla parado",
+              "key": "pantorrilla-parado",
+              "prescription": "20-15-12-10-8.",
+              "page": 38,
+              "rest": null
+            },
+            {
+              "id": "dia-5-6",
+              "name": "Elevación de piernas + cortos en colchoneta",
+              "key": "elevacion-de-piernas-cortos-en-colchoneta",
+              "prescription": "4 x 20 + 4 x 15.",
+              "page": 38,
+              "rest": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
