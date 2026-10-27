@@ -1,0 +1,11 @@
+{
+  "provider": "GitHub Pages",
+  "run_url": "https://github.com/calderondante/Shelby-Gym-Rutinas/actions/runs/40587339073",
+  "conclusion": "Success",
+  "deployment_url": "https://calderondante.github.io/Shelby-Gym-Rutinas/",
+  "pages_commit": "5be649503bb3bd43347d620d17d7838da01d6f31",
+  "source": "GitHub Actions public run summary, read via github.com",
+  "http_check_from_environment": false,
+  "http_check_limitation": "Current environment policy blocks calderondante.github.io until draft network changes are applied",
+  "local_project_prefix_validation": "7 exercises and 7 demonstrations passed at 375, 390, 768, 1024, 1440 CSS pixels"
+}

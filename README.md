@@ -8,7 +8,10 @@ La navegación, las demostraciones disponibles y el avance local funcionan. **La
 visual todavía no es total**: ver `docs/MEDIOS_PENDIENTES.json` y las preguntas de
 `docs/REVISION_ENTRENADOR.md`. No se inventan descansos ni variantes sin definir.
 El código de esta vista previa está en la rama `main` del repositorio independiente.
-Todavía no hay un despliegue web de Netlify confirmado.
+**[Abrir la web navegable](https://calderondante.github.io/Shelby-Gym-Rutinas/) · [Probar la rutina de adaptación](https://calderondante.github.io/Shelby-Gym-Rutinas/?rutina=rutina-de-adaptacion-para-hombres-y-mujeres&dia=sesion)**
+
+GitHub Pages confirmó la publicación de la vista previa. [Despliegue correcto](https://github.com/calderondante/Shelby-Gym-Rutinas/actions/runs/40587339073).
+Netlify continúa disponible como opción separada; no se modificó la administración.
 
 ## Vista previa
 
@@ -143,6 +146,9 @@ Si todavía no está habilitado: Settings → Pages → Source: **Deploy from a 
 Branch: **gh-pages**, carpeta **/ (root)** → Save. Esto se configura exclusivamente
 en `calderondante/Shelby-Gym-Rutinas`, sin modificar `Shelby-Gym`.
 
-La URL esperada tras activarlo es
-`https://calderondante.github.io/Shelby-Gym-Rutinas/`; verificar el estado de despliegue
-y la respuesta HTTP antes de presentarla como un enlace disponible.
+Publicación confirmada por GitHub Pages: https://calderondante.github.io/Shelby-Gym-Rutinas/
+El despliegue `40587339073` terminó con estado Success y anunció esa URL.
+La rama publicada corresponde al commit `5be649503bb3bd43347d620d17d7838da01d6f31`.
+La comprobación HTTP directa desde este entorno continúa limitada por su política de red;
+la navegación se validó localmente bajo el mismo prefijo y la disponibilidad se documenta
+con el resultado del servicio de publicación.

@@ -103,3 +103,9 @@ recursos fallidos ni overflow. Resultados en `docs/qa/pages/`.
 sin worktree ni cambios en el administrador. La disponibilidad remota requiere comprobar
 la activación de Pages y su despliegue; la política actual del entorno bloquea la API
 GitHub y el dominio github.io hasta aplicar los dominios guardados en el borrador.
+
+Publicación posterior confirmada: GitHub Actions ejecutó `pages build and deployment`
+con estado **Success** para `5be6495` y anunció
+`https://calderondante.github.io/Shelby-Gym-Rutinas/`. Evidencia en
+`docs/qa/pages/deployment.json`. La consulta HTTP directa al dominio desde la máquina
+sigue bloqueada por la política de red; no se afirma haberla ejecutado con éxito.
